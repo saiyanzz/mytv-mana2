@@ -28,134 +28,6 @@
     <display-name>FIFA+</display-name>
     <icon src="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6576795:378:CHANNEL:IMAGE:png&amp;w=200"/>
   </channel>
-  <programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="tv3">
-    <title>Wow Shop</title>
-  </programme>
-  <programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="tv3">
-    <title>Bread Barbershop (Season 1)</title>
-    <desc>SOCCER KING BREAD.  Pasukan bola sepak Bakery Town mengadakan sesi pemilihan pemain, dan Bread berbangga dengan zaman kegemilangannya sebagai bintang bola sepak sambil menggunakan kaedah pelik untuk melatih Wilk.</desc>
-  </programme>
-  <programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="tv3">
-    <title>Buletin Pagi (2026/2027)</title>
-  </programme>
-  <programme start="20260926020000 +0000" stop="20260926020200 +0000" channel="tv3">
-    <title>Lintas Langsung Di Karnival Jom Heboh 2026</title>
-  </programme>
-  <programme start="20260926020200 +0000" stop="20260926023000 +0000" channel="tv3">
-    <title>Dino Trainers Season 3</title>
-  </programme>
-  <programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="tv3">
-    <title>Winx Club - The Magic Is Back</title>
-  </programme>
-  <programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="tv3">
-    <title>Ultraman Teo 2026</title>
-    <desc>Raksasa muncul kembali dan merosakkan bangunan berhampiran kolej pengajian. Para pelajar lari bertempiaran untuk menyelamatkan diri. Ibuki menyedari kehadiran raksasa lalu menukarkan dirinya menjadi gergasi biru.</desc>
-  </programme>
-  <programme start="20260926033000 +0000" stop="20260926033200 +0000" channel="tv3">
-    <title>My Role Model</title>
-  </programme>
-  <programme start="20260926033200 +0000" stop="20260926033400 +0000" channel="tv3">
-    <title>Lintas Langsung Di Karnival Jom Heboh 2026</title>
-  </programme>
-  <programme start="20260926033400 +0000" stop="20260926040000 +0000" channel="tv3">
-    <title>Wow Shop - 7Th Batch</title>
-  </programme>
-  <programme start="20260926040000 +0000" stop="20260926040200 +0000" channel="tv3">
-    <title>Lintas Langsung Di Karnival Jom Heboh 2026</title>
-  </programme>
-  <programme start="20260926040200 +0000" stop="20260926043000 +0000" channel="tv3">
-    <title>Ke Indonesia Ke Kita?</title>
-    <desc>Episod ini hos Wak Doyok dan Myo ke Jakarta mengunjungi kota pelancongan terkenal seperti Sabang dan Ancol. Di Sabang mereka ke lokasi menjual pelbagai jenis barangan hiasan. Di Ancol pula mereka ke Taman Tema Air Atlantis.</desc>
-  </programme>
-  <programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="tv3">
-    <title>The Streets Tanah Airku</title>
-    <desc>Episod ini, Qi Razali mengembara ke ‘The Streets’ di Kuala Terengganu untuk mencari keistimewaannya sempena Hari Kebangsaan ke-60 pada tahun 2017 dan aktiviti-aktiviti menarik yang boleh dilakukan di sini.</desc>
-  </programme>
-  <programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="tv3">
-    <title>Jalan-Jalan Makan Angin 2022</title>
-    <desc>Episod ini Akhmal Nazri dan Atu Zero ke Taman Negara, Tasik Kenyir, Terengganu dan menginap di rumah rakit di Razna Houseboat, meneroka Gua Bewah, mempelajari sejarah Tasik Kenyir serta menikmati keindahan Air Terjun Lasir.</desc>
-  </programme>
-  <programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="tv3">
-    <title>Buletin 130 (2026/2027)</title>
-  </programme>
-  <programme start="20260926060000 +0000" stop="20260926080000 +0000" channel="tv3">
-    <title>Pemburu Saka</title>
-    <desc>Sebuah penceritaan semula seorang dukun bernama Aris Rahmat tentang Zack atau Zakaria yang mengasas sebuah agensi dinamakan Back To One selepas kematian ibubapa akibat terkena ilmu hitam.</desc>
-  </programme>
-  <programme start="20260926080000 +0000" stop="20260926090000 +0000" channel="tv3">
-    <title>Animals Like Us</title>
-    <desc>Episod ini memperkenalkan kehidupan cimpanzi di Afrika Barat dan orang hutan di Borneo dan Sumatra. Filem setelah itu memaparkan kehidupan binatang liar di Belize Amerika Tengah, California USA, Mexico, Costa Rica.</desc>
-  </programme>
-  <programme start="20260926090000 +0000" stop="20260926090200 +0000" channel="tv3">
-    <title>Lintas Langsung Di Karnival Jom Heboh 2026</title>
-  </programme>
-  <programme start="20260926090200 +0000" stop="20260926093000 +0000" channel="tv3">
-    <title>Money Matters 2026/2027</title>
-  </programme>
-  <programme start="20260926093000 +0000" stop="20260926093500 +0000" channel="tv3">
-    <title>Ringkasan Petang (5 Min) (2026/2027)</title>
-  </programme>
-  <programme start="20260926093500 +0000" stop="20260926103000 +0000" channel="tv3">
-    <title>Pasca Kau Pergi</title>
-    <desc>Faris berjanji untuk menjaga abahnya. Azlina menghabiskan masa bergembira di luar negara tanpa mengendahkan panggilan pembantu rumah dan anaknya. Zul dibawa balik ke rumah dan dijaga oleh seorang jururawat peribadi.</desc>
-  </programme>
-  <programme start="20260926103000 +0000" stop="20260926110000 +0000" channel="tv3">
-    <title>Madrasah 2017</title>
-    <desc>Episod ini hos Fedtri Yahya ke sebuah destinasi penting penyebaran Islam di Tanah Jawa yakni Jogjakart melawat Madrasah Bu Shinta dan penghuninya yang dipulau oleh keluarga, masyarakat, malahan negara sendiri.</desc>
-  </programme>
-  <programme start="20260926110000 +0000" stop="20260926120000 +0000" channel="tv3">
-    <title>Wanita Milik Kaiden</title>
-  </programme>
-  <programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="tv3">
-    <title>Buletin Utama (2026/2027)</title>
-  </programme>
-  <programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="tv3">
-    <title>Boss Kid</title>
-    <desc>Episod ini Wind, Rickman, Chih Siang dan Baki mengembara ke Melaka melawat Christ Church, Restoran Donald &amp; Lily's serta A'Famosa. Pengembaraan mereka diteruskan dengan pelbagai segmen pertandingan yang penuh gelak tawa.</desc>
-  </programme>
-  <programme start="20260926140000 +0000" stop="20260926160000 +0000" channel="tv3">
-    <title>Matahari Tak Bercahaya</title>
-    <desc>Mastura (Nad Zainal), seorang penjaga taska yang bertugas menjaga anak-anak tadika. Dia juga isteri kepada Shazan (Fattah Amin). Mereka hidup dalam keadaan gembira dan disenangi orang kampung sehinggalah terjadinya satu insiden.</desc>
-  </programme>
-  <programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="tv3">
-    <title>Nightline (2026/2027)</title>
-  </programme>
-  <programme start="20260926163000 +0000" stop="20260926173000 +0000" channel="tv3">
-    <title>Wow Shop</title>
-  </programme>
-  <programme start="20260926173000 +0000" stop="20260926183000 +0000" channel="tv3">
-    <title>Hai Cinta,Dengarkanlah</title>
-    <desc>Selepas mengharungi pelbagai rintangan dan halangan dalam kehidupan, akhirnya Cahaya, Adib dan Fifi sangat bahagia. Nazilla menyimpan dendam dan tekad menghancurkan rumah tangga Adib dengan Cahaya.</desc>
-  </programme>
-  <programme start="20260926183000 +0000" stop="20260926193000 +0000" channel="tv3">
-    <title>Hospital Loveline</title>
-    <desc>Setelah menerima aduan dari beberapa pihak, Penyelia Jabatan Pengimejan menggantung tugas Razi selama 2 minggu. Pak Cik Arfan membuat aduan kepada pihak atasan mengenai hubungan Arfan dan Sophia yang melanggar etika profesion.</desc>
-  </programme>
-  <programme start="20260926193000 +0000" stop="20260926203000 +0000" channel="tv3">
-    <title>Boss Kid</title>
-    <desc>Irfan dan Idris dipukul oleh kakaknya Hana kerana tiket konsert BTSnya terkoyak semasa pergelutan antara mereka. Rafidah terpaksa masuk campur dan setelah disiasat, Hana mengaku mengambil duit keuntungan jualan burger keluarga mereka.</desc>
-  </programme>
-  <programme start="20260926203000 +0000" stop="20260926210000 +0000" channel="tv3">
-    <title>Kapsul Surah (2018)</title>
-    <desc>Bacaan SURAH AL-MULK serta terjemahannya.</desc>
-  </programme>
-  <programme start="20260926210000 +0000" stop="20260926213000 +0000" channel="tv3">
-    <title>Bacaan Al-Quran 2014</title>
-    <desc>Bacaan ayat suci Al-Quran surah Al-Fatihah oleh Ustaz Ahmad Tirmizi Hj Ali &amp; Ustaz Ahmad Tarmizi Abdul Rahman.</desc>
-  </programme>
-  <programme start="20260926213000 +0000" stop="20260926223000 +0000" channel="tv3">
-    <title>Wow Shop</title>
-  </programme>
-  <programme start="20260926223000 +0000" stop="20260926225000 +0000" channel="tv3">
-    <title>Bacaan Yasin 2025</title>
-    <desc>Bacaan Surah Yasin</desc>
-  </programme>
-  <programme start="20260926225000 +0000" stop="20260927000000 +0000" channel="tv3">
-    <title>Tanyalah Ustaz 2026 (Sat &amp; Sun) : Jan - Dec</title>
-  </programme>
-  <programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="tv3">
-    <title>Wow Shop</title>
-  </programme>
   <programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="tv3">
     <title>Wow Shop</title>
   </programme>
@@ -408,122 +280,121 @@
     <title>Setelah Ku Dimiliki</title>
     <desc>Encik Rahimin cadangkan supaya Iz dan Sarra tinggal di KL sahaja tapi Sarra yang mahu kembali ke Pulau Langkawi. Sebenarnya Sarra risaukan keadaan Lina. Di Langkawi, berkali-kali Lina bertanyakan tentang Iz.</desc>
   </programme>
-  <programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="ntv7">
-    <title>Pecutan 2022 Q3 Q4</title>
-    <desc>Episod ini menyediakan perkongsian teknik menjawab soalan  penulisan jawapan untuk bahagian A dan bahagian B. Fokus utama slot ini adalah untuk memberi pendedahan kepada murid tentang kaedah menjawab soalan.</desc>
+  <programme start="20260929000000 +0000" stop="20260929010000 +0000" channel="tv3">
+    <title>Setelah Ku Dimiliki</title>
+    <desc>Encik Rahimin cadangkan supaya Iz dan Sarra tinggal di KL sahaja tapi Sarra yang mahu kembali ke Pulau Langkawi. Sebenarnya Sarra risaukan keadaan Lina. Di Langkawi, berkali-kali Lina bertanyakan tentang Iz.</desc>
   </programme>
-  <programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="ntv7">
-    <title>Menengah Atas 24/25</title>
-    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Atas (Tingkatan 4 dan 5) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
-  </programme>
-  <programme start="20260926013000 +0000" stop="20260926020000 +0000" channel="ntv7">
-    <title>Menengah Atas 2026</title>
-  </programme>
-  <programme start="20260926020000 +0000" stop="20260926023000 +0000" channel="ntv7">
-    <title>Menengah Rendah 24/25</title>
-    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Rendah (Tingkatan 1, 2 dan 3) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
-  </programme>
-  <programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="ntv7">
-    <title>Menengah Rendah 24/25</title>
-    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Rendah (Tingkatan 1, 2 dan 3) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
-  </programme>
-  <programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="ntv7">
-    <title>Prasekolah 2026</title>
-  </programme>
-  <programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="ntv7">
-    <title>Tahap I 2026</title>
-  </programme>
-  <programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="ntv7">
-    <title>Tahap Ii 24/25</title>
-    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Tahap II (Tahun 4, 5 dan 6) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
-  </programme>
-  <programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="ntv7">
-    <title>Tvet 2026</title>
-    <desc>Episod ini memperkenalkan kepada pelajar kaedah penamatan kabel rangkaian UTP pada modular jack sebagai salah satu komponen penting dalam pemasangan rangkaian berstruktur. Guru menerangkan fungsi modular jack, alatan yang digunakan.</desc>
-  </programme>
-  <programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="ntv7">
-    <title>Buletin Didik 2026 (July - Dec)</title>
-  </programme>
-  <programme start="20260926053000 +0000" stop="20260926063000 +0000" channel="ntv7">
-    <title>Mssm 2026</title>
-  </programme>
-  <programme start="20260926063000 +0000" stop="20260926070000 +0000" channel="ntv7">
-    <title>Prasekolah 24/25</title>
-    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Prasekolah berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
-  </programme>
-  <programme start="20260926070000 +0000" stop="20260926073000 +0000" channel="ntv7">
-    <title>Tahap I 24/25</title>
-    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Tahap I  (Tahun 1, 2 dan 3) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
-  </programme>
-  <programme start="20260926073000 +0000" stop="20260926080000 +0000" channel="ntv7">
-    <title>Tahap Ii 24/25</title>
-    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Tahap II (Tahun 4, 5 dan 6) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
-  </programme>
-  <programme start="20260926080000 +0000" stop="20260926083000 +0000" channel="ntv7">
-    <title>Menengah Rendah 24/25</title>
-    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Rendah (Tingkatan 1, 2 dan 3) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
-  </programme>
-  <programme start="20260926083000 +0000" stop="20260926090000 +0000" channel="ntv7">
-    <title>Menengah Rendah 24/25</title>
-    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Rendah (Tingkatan 1, 2 dan 3) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
-  </programme>
-  <programme start="20260926090000 +0000" stop="20260926093000 +0000" channel="ntv7">
-    <title>Menengah Atas 24/25</title>
-    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Atas (Tingkatan 4 dan 5) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
-  </programme>
-  <programme start="20260926093000 +0000" stop="20260926100000 +0000" channel="ntv7">
-    <title>Menengah Atas 24/25</title>
-    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Atas (Tingkatan 4 dan 5) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
-  </programme>
-  <programme start="20260926100000 +0000" stop="20260926103000 +0000" channel="ntv7">
-    <title>Menengah Atas 24/25</title>
-    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Atas (Tingkatan 4 dan 5) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
-  </programme>
-  <programme start="20260926103000 +0000" stop="20260926110000 +0000" channel="ntv7">
-    <title>Kesenian 24/25</title>
-    <desc>Program ini menyediakan pelbagai kemahiran dalam kesenian membabitkan elemen seperti nyanyian, seni tari dan seni visual yang  memainkan peranan penting dalam pembangunan sahsiah murid.</desc>
-  </programme>
-  <programme start="20260926110000 +0000" stop="20260926113000 +0000" channel="ntv7">
-    <title>Buletin Didik 2026 (July - Dec)</title>
-  </programme>
-  <programme start="20260926113000 +0000" stop="20260926120000 +0000" channel="ntv7">
-    <title>Beyblade X (Gen 4)</title>
-    <desc>Pasukan Persona wajib melepasi ujian Kardova untuk layak ke satu tahap yang lebih tinggi. Kegagalan Kazami dalam ujian pertama membuat dia hilang keyakinan. Rakan sepasukan mangatur program latihan khas untuk  mengembalikan keyakinan Kazami.</desc>
-  </programme>
-  <programme start="20260926120000 +0000" stop="20260926123000 +0000" channel="ntv7">
-    <title>Sukses Matriks Tahun 4</title>
-  </programme>
-  <programme start="20260926123000 +0000" stop="20260926130000 +0000" channel="ntv7">
-    <title>Sukses Matriks Tahun 4</title>
-  </programme>
-  <programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="ntv7">
-    <title>Mssm 2026</title>
-  </programme>
-  <programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="ntv7">
+  <programme start="20260929010000 +0000" stop="20260929013000 +0000" channel="tv3">
     <title>Wow Shop</title>
   </programme>
-  <programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="ntv7">
-    <title>Dunia Tersembunyi 2013</title>
-    <desc>Memaparkan dua amalan tradisi di Pengkalan Panduk, Kabupaten Pelalawan, Sumatera, yang melibatkan kuasa ghaib. Pertama, Lukah Gilo, satu permainan rakyat dan Bedihwo, satu kaedah rawatan tradisional oleh pawang kuasa ghaib.</desc>
+  <programme start="20260929013000 +0000" stop="20260929020000 +0000" channel="tv3">
+    <title>Buletin Pagi (2026/2027)</title>
   </programme>
-  <programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="ntv7">
-    <title>Mari Bercerita</title>
-    <desc>Episod ini Nadia Aqilah akan mengupas buku KOMSAS bagi pelajar di Tingkatan 5 yang bertajuk ‘Tirani’.</desc>
+  <programme start="20260929020000 +0000" stop="20260929030000 +0000" channel="tv3">
+    <title>Malaysia Hari Ini 2026/2027</title>
   </programme>
-  <programme start="20260926160000 +0000" stop="20260926230000 +0000" channel="ntv7">
-    <title>Hot Fm@Ntv7 2026</title>
+  <programme start="20260929030000 +0000" stop="20260929033000 +0000" channel="tv3">
+    <title>Supa Strikas (Season 4 - 6)</title>
+    <desc>Supa Fran dipilih sebagai peminat terbaik dan dibawa untuk melawat pusat latihan rahsia Supa Strikas. Supa Fran membawa bersama sebiji bola sepak yang diberikan oleh seorang kanak-kanak untuk mendapatkan tandatangan Supa Strikas.</desc>
   </programme>
-  <programme start="20260926230000 +0000" stop="20260926233000 +0000" channel="ntv7">
-    <title>Dino Trainers Season 2</title>
-    <desc>Ritchie, Howell dan Hardy berjaya melalui ujian terakhir di mana dinosaur mereka bermain bola sepak bagi menilai semangat kerjasama mereka. // Styra, dinosaur tercedera yang diselamatkan Ritchie telah dirampas oleh pemburu.</desc>
+  <programme start="20260929033000 +0000" stop="20260929033200 +0000" channel="tv3">
+    <title>Kampong Gatal (Kgg)</title>
   </programme>
-  <programme start="20260926233000 +0000" stop="20260927000000 +0000" channel="ntv7">
-    <title>Badan Beruniform 24/25</title>
-    <desc>Program ini memberi pengetahuan dan kemahiran asas kepada murid mengenai konsep kegiatan kokurikulum Badan Beruniform; meningkatkan pengetahuan dan kefahaman dalam perancangan serta pengurusan Badan Beruniform.</desc>
+  <programme start="20260929033200 +0000" stop="20260929040000 +0000" channel="tv3">
+    <title>5 Rencah 5 Rasa 2021</title>
+    <desc>Episod ini Cef Sherson menyediakan lima jenis hidangan bertemakan ‘Makanan Fusion’ manakala tetamu jemputan secara maya, Nuramiza, akan menunjukkan cara menyediakan pencuci mulut iaitu Brownies Cheese.</desc>
   </programme>
-  <programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="ntv7">
-    <title>Pecutan 2022 Q3 Q4</title>
-    <desc>Episod ini menumpukan kepada dua bahagian soalan iaitu,  Bahagian A – Murid didedahkan dengan pelbagai soalan objektif jenis non-MCQ dengan konstruk berbeza serta teknik menjawab yang tepat.</desc>
+  <programme start="20260929040000 +0000" stop="20260929040500 +0000" channel="tv3">
+    <title>Wanita Hari Ini Vibe</title>
+  </programme>
+  <programme start="20260929040500 +0000" stop="20260929050000 +0000" channel="tv3">
+    <title>Surviving Beauty</title>
+    <desc>Kaew cuba mendapatkan kepastian daripada Cheonkwan mengenai hubungannya dengan Chalay selepas mendengar khabar angin buruk. Sementara itu, Wanjai tiba di kampung untuk mengagihkan bekalan bantuan kepada penduduk.</desc>
+  </programme>
+  <programme start="20260929050000 +0000" stop="20260929053000 +0000" channel="tv3">
+    <title>Wow Shop</title>
+  </programme>
+  <programme start="20260929053000 +0000" stop="20260929060000 +0000" channel="tv3">
+    <title>Buletin 130 (2026/2027)</title>
+  </programme>
+  <programme start="20260929060000 +0000" stop="20260929070000 +0000" channel="tv3">
+    <title>Seoul Cinta</title>
+    <desc>Azra bersetuju apabila Lokman mencadangkan agar meneruskan rancangan untuk bertunang dan bernikah selepas balik dari Korea nanti. Daniel pula menyatakan dia dan Raisya perlu lebih masa sebelum membuat keputusan ke tahap seterusnya.</desc>
+  </programme>
+  <programme start="20260929070000 +0000" stop="20260929080000 +0000" channel="tv3">
+    <title>Cinta Tanpa Henti</title>
+    <desc>Hajar dan Arman terkejut dengan kemunculan mengejut Salina. Mereka mempertahankan apa yang dilihat Salina adalah salah faham. Hajar bagitahu yang dia datang untuk menghantar laporan kewangan syarikat.</desc>
+  </programme>
+  <programme start="20260929080000 +0000" stop="20260929090000 +0000" channel="tv3">
+    <title>Ali Baba: Dastaan-E-Kabul (Season 2)</title>
+  </programme>
+  <programme start="20260929090000 +0000" stop="20260929100000 +0000" channel="tv3">
+    <title>Wow Shop</title>
+  </programme>
+  <programme start="20260929100000 +0000" stop="20260929110000 +0000" channel="tv3">
+    <title>Wanita Syurga</title>
+    <desc>Tuan Mokhtar datang ke rumah Amar. Melihatkan keadaan Farah, Tuan Mokhtar terus marah Amar dan minta Amar berhenti kerja. Amar dan Luqman bersaing untuk dapatkan Ardini. Amar minta Faiz bantu dia untuk pujuk Ardini.</desc>
+  </programme>
+  <programme start="20260929110000 +0000" stop="20260929120000 +0000" channel="tv3">
+    <title>Hanya Untuk Dia</title>
+    <desc>Kisah ini mengangkat perjalanan hidup Ain Nuraina, seorang gadis yang cekal, keras hati dan terbiasa menyembunyikan luka di sebalik senyuman. Selepas kehilangan kedua ibubapanya, Ain memikul tanggungjawab besar menjaga abangnya, Ikram, yang lumpuh.</desc>
+  </programme>
+  <programme start="20260929120000 +0000" stop="20260929130000 +0000" channel="tv3">
+    <title>Buletin Utama (2026/2027)</title>
+  </programme>
+  <programme start="20260929130000 +0000" stop="20260929130200 +0000" channel="tv3">
+    <title>Mbuzz  (Jul - Dec 2026)</title>
+  </programme>
+  <programme start="20260929130200 +0000" stop="20260929140000 +0000" channel="tv3">
+    <title>999 (2026)</title>
+  </programme>
+  <programme start="20260929140000 +0000" stop="20260929150000 +0000" channel="tv3">
+    <title>Ke Mana Hilang Cinta</title>
+    <desc>CINTA GILA.  Mental Aidil makin tidak stabil. Dia dihambat memori ngeri dan sedih. Aidil mahu pastikan hubungan Jaris dan Wirdati musnah. Harris muncul, menuntut kebenaran dan keadilan buat Sya dengan dibantu oleh Dr. Hafisa.</desc>
+  </programme>
+  <programme start="20260929150000 +0000" stop="20260929160000 +0000" channel="tv3">
+    <title>Remang</title>
+    <desc>ALAM LAIN.  Episod ini DJ Ejay menerima panggilan Fathin menceritakan kisah 3 sekawan Wan, Fizul dan Bob masuk ke hutan untuk berkhemah. Semasa dalam perjalanan Wan memetik sekuntum bunga dan disimpan dalam begnya.</desc>
+  </programme>
+  <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="tv3">
+    <title>Nightline (2026/2027)</title>
+  </programme>
+  <programme start="20260929163000 +0000" stop="20260929173000 +0000" channel="tv3">
+    <title>Wow Shop</title>
+  </programme>
+  <programme start="20260929173000 +0000" stop="20260929183000 +0000" channel="tv3">
+    <title>Hanya Untuk Dia</title>
+    <desc>Kehadiran Hisham menziarahi Ain di hospital mencetuskan rasa cemburu Dr Zafran. Sikap dingin Ain memburukkan ketegangan, sekali gus menyemarakkan persaingan antara Hisham dan Dr Zafran demi memenangi hati Ain.</desc>
+  </programme>
+  <programme start="20260929183000 +0000" stop="20260929193000 +0000" channel="tv3">
+    <title>Setelah Ku Dimiliki</title>
+    <desc>Sarra bersikap dingin terhadap Iz kerana dia masih memendam perasaan dan rahsia lampaunya daripada pengetahuan sesiapa. Iz berusaha mendekatinya walaupun layanan Sarra terhadapnya tidak seperti Noh dan abangnya, Haqif.</desc>
+  </programme>
+  <programme start="20260929193000 +0000" stop="20260929203000 +0000" channel="tv3">
+    <title>Santau Perempuan Terlarang</title>
+    <desc>Maria ketakutan diganggu makhluk ghaib. Iqbal gagal menembusi dinding ghaib untuk keluar dari rumah Sapura. Zakuan menjelaskan tentang kewujudan Pendita yang menurunkan jin kepada Sapura. Maria hilang sejak bertembung dengan Pendita.</desc>
+  </programme>
+  <programme start="20260929203000 +0000" stop="20260929210000 +0000" channel="tv3">
+    <title>Kapsul Surah (2018)</title>
+    <desc>Bacaan AYAT KURSI serta terjemahannya.</desc>
+  </programme>
+  <programme start="20260929210000 +0000" stop="20260929213000 +0000" channel="tv3">
+    <title>Bacaan Al-Quran 2014</title>
+    <desc>Bacaan ayat suci Al-Quran surah AR-Rahmman oleh Ustaz Ahmad Tirmizi Hj Ali.</desc>
+  </programme>
+  <programme start="20260929213000 +0000" stop="20260929223000 +0000" channel="tv3">
+    <title>Wow Shop</title>
+  </programme>
+  <programme start="20260929223000 +0000" stop="20260929225000 +0000" channel="tv3">
+    <title>Bacaan Yasin 2025</title>
+    <desc>Bacaan Surah Yasin</desc>
+  </programme>
+  <programme start="20260929225000 +0000" stop="20260930000000 +0000" channel="tv3">
+    <title>Tanyalah Ustaz July – Dec 2026</title>
+  </programme>
+  <programme start="20260930000000 +0000" stop="20260930010000 +0000" channel="tv3">
+    <title>Setelah Ku Dimiliki</title>
+    <desc>Noh beritahu kepada Iz yang dia sudah nekad untuk dapatkan Sarra. Noh menyesal sebab pernah menghina Sarra sebelum ni. Iz masih diamkan kebenaran tentang pernikahannya dengan Sarra.</desc>
   </programme>
   <programme start="20260927000000 +0000" stop="20260927010000 +0000" channel="ntv7">
     <title>Pecutan 2022 Q3 Q4</title>
@@ -769,84 +640,135 @@
   <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="ntv7">
     <title>Sukses Matriks Tahun 4</title>
   </programme>
-  <programme start="20260925234500 +0000" stop="20260926003000 +0000" channel="8tv">
-    <title>Proud Of You (301-600)</title>
-    <desc>Berdasarkan maklumat Liu, Shanhe pergi ke rumah terbiar itu. Di situ dia menemui Thong dan berlaku kejadian tidak diingini menyebabkan Thong terbunuh. San Hao yang tiba di rumah itu mengesyaki kematian Thong disebabkan Shanhe.</desc>
+  <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="ntv7">
+    <title>Sukses Matriks Tahun 4</title>
   </programme>
-  <programme start="20260926003000 +0000" stop="20260926013000 +0000" channel="8tv">
+  <programme start="20260929003000 +0000" stop="20260929010000 +0000" channel="ntv7">
+    <title>Sukses Matriks Tahun 4</title>
+  </programme>
+  <programme start="20260929010000 +0000" stop="20260929013000 +0000" channel="ntv7">
+    <title>Menengah Atas 24/25</title>
+    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Atas (Tingkatan 4 dan 5) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+  </programme>
+  <programme start="20260929013000 +0000" stop="20260929020000 +0000" channel="ntv7">
+    <title>Menengah Atas 24/25</title>
+    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Atas (Tingkatan 4 dan 5) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+  </programme>
+  <programme start="20260929020000 +0000" stop="20260929023000 +0000" channel="ntv7">
+    <title>Menengah Rendah 24/25</title>
+    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Rendah (Tingkatan 1, 2 dan 3) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+  </programme>
+  <programme start="20260929023000 +0000" stop="20260929030000 +0000" channel="ntv7">
+    <title>Menengah Rendah 24/25</title>
+    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Rendah (Tingkatan 1, 2 dan 3) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+  </programme>
+  <programme start="20260929030000 +0000" stop="20260929033000 +0000" channel="ntv7">
+    <title>Prasekolah 24/25</title>
+    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Prasekolah berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+  </programme>
+  <programme start="20260929033000 +0000" stop="20260929040000 +0000" channel="ntv7">
+    <title>Tahap I 24/25</title>
+    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Tahap I  (Tahun 1, 2 dan 3) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+  </programme>
+  <programme start="20260929040000 +0000" stop="20260929043000 +0000" channel="ntv7">
+    <title>Tahap Ii 24/25</title>
+    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Tahap II (Tahun 4, 5 dan 6) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+  </programme>
+  <programme start="20260929043000 +0000" stop="20260929050000 +0000" channel="ntv7">
+    <title>Menengah Atas 24/25</title>
+    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Atas (Tingkatan 4 dan 5) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+  </programme>
+  <programme start="20260929050000 +0000" stop="20260929053000 +0000" channel="ntv7">
+    <title>Buletin Didik</title>
+  </programme>
+  <programme start="20260929053000 +0000" stop="20260929060000 +0000" channel="ntv7">
+    <title>Myinovasi</title>
+    <desc>ALAT PENGESAN ASAP ROKOK DAN VAPE.  Sekumpulan innovator muda daripada SMK Desa Tun Hussein Onn, Kuala Lumpur telah mencetuskan idea untuk menghasilkan SENTRY (Smart Environmental Notification and Threat Response System).</desc>
+  </programme>
+  <programme start="20260929060000 +0000" stop="20260929063000 +0000" channel="ntv7">
+    <title>Ilham Kreatif</title>
+    <desc>Ilham Kreatif ialah rancangan praktikal yang memberi inspirasi kepada penonton untuk menyerlahkan kreativiti mereka dan mengubah bahan harian menjadi hiasan rumah, hadiah atau projek peribadi yang menakjubkan.</desc>
+  </programme>
+  <programme start="20260929063000 +0000" stop="20260929070000 +0000" channel="ntv7">
+    <title>Prasekolah 24/25</title>
+    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Prasekolah berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+  </programme>
+  <programme start="20260929070000 +0000" stop="20260929073000 +0000" channel="ntv7">
+    <title>Tahap I 24/25</title>
+    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Tahap I  (Tahun 1, 2 dan 3) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+  </programme>
+  <programme start="20260929073000 +0000" stop="20260929080000 +0000" channel="ntv7">
+    <title>Tahap Ii 24/25</title>
+    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Tahap II (Tahun 4, 5 dan 6) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+  </programme>
+  <programme start="20260929080000 +0000" stop="20260929083000 +0000" channel="ntv7">
+    <title>Menengah Rendah 24/25</title>
+    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Rendah (Tingkatan 1, 2 dan 3) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+  </programme>
+  <programme start="20260929083000 +0000" stop="20260929090000 +0000" channel="ntv7">
+    <title>Menengah Rendah 24/25</title>
+    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Rendah (Tingkatan 1, 2 dan 3) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+  </programme>
+  <programme start="20260929090000 +0000" stop="20260929093000 +0000" channel="ntv7">
+    <title>Menengah Atas 24/25</title>
+    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Atas (Tingkatan 4 dan 5) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+  </programme>
+  <programme start="20260929093000 +0000" stop="20260929100000 +0000" channel="ntv7">
+    <title>Menengah Atas 24/25</title>
+    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Atas (Tingkatan 4 dan 5) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+  </programme>
+  <programme start="20260929100000 +0000" stop="20260929103000 +0000" channel="ntv7">
+    <title>Menengah Atas 24/25</title>
+    <desc>Program ini ialah kandungan pengajaran dan pembelajaran (PdP) bagi murid Menengah Atas (Tingkatan 4 dan 5) berdasarkan sukatan pelajaran di sekolah yang menerapkan pelbagai elemen kemahiran, penyampaian ilmu dan juga nilai murni.</desc>
+  </programme>
+  <programme start="20260929103000 +0000" stop="20260929110000 +0000" channel="ntv7">
+    <title>Kelab Dan Persatuan 24/25</title>
+    <desc>Program ini memberi pengetahuan dan kemahiran asas kepada murid mengenai konsep kegiatan kokurikulum Kelab dan Persatuan; meningkatkan pengetahuan dan kefahaman dalam perancangan serta pengurusan Kelab dan Persatuan.</desc>
+  </programme>
+  <programme start="20260929110000 +0000" stop="20260929113000 +0000" channel="ntv7">
+    <title>Buletin Didik 2026 (July - Dec)</title>
+  </programme>
+  <programme start="20260929113000 +0000" stop="20260929120000 +0000" channel="ntv7">
+    <title>Armor Rangers Season 3</title>
+    <desc>Awu dan rakan-rakan berdepan dengan raksasa aligator yang ingin menghancurkan bandar tetapi dapat dipujuk untuk menjadi kawan mereka. Awu dan rakan-rakannya bergabung dengan aligator untuk menentang robot zero yang bertambah kuat.</desc>
+  </programme>
+  <programme start="20260929120000 +0000" stop="20260929123000 +0000" channel="ntv7">
+    <title>Sukses Matriks Tahun 4</title>
+  </programme>
+  <programme start="20260929123000 +0000" stop="20260929130000 +0000" channel="ntv7">
+    <title>Sukses Matriks Tahun 4</title>
+  </programme>
+  <programme start="20260929130000 +0000" stop="20260929133000 +0000" channel="ntv7">
+    <title>Myinovasi</title>
+  </programme>
+  <programme start="20260929133000 +0000" stop="20260929140000 +0000" channel="ntv7">
+    <title>Ilham Kreatif</title>
+    <desc>Ilham Kreatif ialah rancangan praktikal yang memberi inspirasi kepada penonton untuk menyerlahkan kreativiti mereka dan mengubah bahan harian menjadi hiasan rumah, hadiah atau projek peribadi yang menakjubkan.</desc>
+  </programme>
+  <programme start="20260929140000 +0000" stop="20260929150000 +0000" channel="ntv7">
     <title>Wow Shop</title>
   </programme>
-  <programme start="20260926013000 +0000" stop="20260926023000 +0000" channel="8tv">
-    <title>Great Times</title>
-    <desc>Chee Qian ditahan polis berkaitan kes Huan Run. Ruzhen dan Ruguan meminta Chiu Yeh untuk menarik balik kes terhadap Chee Qian terutamanya apabila Huan Run telah pulih sepenuhnya, juga penglihatannya.</desc>
+  <programme start="20260929150000 +0000" stop="20260929153000 +0000" channel="ntv7">
+    <title>Dunia Tersembunyi 2013</title>
+    <desc>HAJATAN MAKAM.  Memaparkan masyarakat Aceh menganjurkan majlis kenduri secara bergotong-royong setiap hari Isnin dan Khamis. Ia telah berlangsung sejak ratusan tahun dahulu bagi menyampaikan hajat agar dikabulkan oleh Allah.</desc>
   </programme>
-  <programme start="20260926023000 +0000" stop="20260926033000 +0000" channel="8tv">
-    <title>Wow Shop</title>
+  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="ntv7">
+    <title>Mari Bercerita</title>
+    <desc>Episod ini Sharifah Aleya akan mengupas novel Bahasa Inggeris bagi pelajar di Tingkatan 5 yang bertajuk ‘Dear Mr Kilmer’.</desc>
   </programme>
-  <programme start="20260926033000 +0000" stop="20260926043000 +0000" channel="8tv">
-    <title>Wow Shop</title>
+  <programme start="20260929160000 +0000" stop="20260929230000 +0000" channel="ntv7">
+    <title>Hot Fm@Ntv7 2026</title>
   </programme>
-  <programme start="20260926043000 +0000" stop="20260926050000 +0000" channel="8tv">
-    <title>Midday Mandarin News 2026/2027 (Live)</title>
+  <programme start="20260929230000 +0000" stop="20260929233000 +0000" channel="ntv7">
+    <title>Jungle Agent Season 2</title>
+    <desc>Cool Joe menggunakan empat putaran bola sepak untuk menghantar bola. Pasukan itu dijemput ke studio untuk rakaman teknik gerakan bagi perlawanan Liga Super seterusnya. Rakaman itu telah dianalisa oleh jurulatih Nakama, Ura Giri.</desc>
   </programme>
-  <programme start="20260926050000 +0000" stop="20260926055800 +0000" channel="8tv">
-    <title>Wow Shop</title>
+  <programme start="20260929233000 +0000" stop="20260930000000 +0000" channel="ntv7">
+    <title>Badan Beruniform 24/25</title>
+    <desc>Program ini memberi pengetahuan dan kemahiran asas kepada murid mengenai konsep kegiatan kokurikulum Badan Beruniform; meningkatkan pengetahuan dan kefahaman dalam perancangan serta pengurusan Badan Beruniform.</desc>
   </programme>
-  <programme start="20260926055800 +0000" stop="20260926060000 +0000" channel="8tv">
-    <title>8 E-Pulse Capsule 2026</title>
-  </programme>
-  <programme start="20260926060000 +0000" stop="20260926070000 +0000" channel="8tv">
-    <title>The Legend Of Taiwan 17</title>
-    <desc>Tiga lelaki bertopeng cuba merompak keluarga Wang namun dihalau oleh roh Wang Zheng Guang. Susulan fenomena ganjil, Dewa Tai Zi Ye meramalkan bencana bakal menimpa Kampung Pu Xin, sementara mendiang Wang muncul dalam mimpi.</desc>
-  </programme>
-  <programme start="20260926070000 +0000" stop="20260926080000 +0000" channel="8tv">
-    <title>My One And Only</title>
-    <desc>Zhongyi dan Zixiong tiba di hospital untuk berjumpa Huiling buat kali terakhir. Semua orang kecewa dengan kematian Huiling secara mengejut. Zhongyi terkejut apabila pihak polis memberitahunya bahawa May didakwa atas kematian Huiling.</desc>
-  </programme>
-  <programme start="20260926080000 +0000" stop="20260926085800 +0000" channel="8tv">
-    <title>This Is My Show</title>
-    <desc>Peserta-peserta dengan bakat berbeza akan dilatih oleh penerbit dan jemputan selebriti terkenal daripada pelbagai bidang antaranya lakonan, nyanyian, peragaan bagi melahirkan bakat muda yang versatil.</desc>
-  </programme>
-  <programme start="20260926085800 +0000" stop="20260926090000 +0000" channel="8tv">
-    <title>8 E-Pulse Capsule 2026</title>
-  </programme>
-  <programme start="20260926090000 +0000" stop="20260926100000 +0000" channel="8tv">
-    <title>Love Like The Galaxy</title>
-    <desc>Demi keselamatan keluarga Shao Shang, Bu Yi terpaksa mengawal segala-galanya, membuatkan Shao Shang dan abangnya berasa terkongkong. Ekoran itu, Shao Shang melarikan diri untuk bertemu Qi Qi.</desc>
-  </programme>
-  <programme start="20260926100000 +0000" stop="20260926110000 +0000" channel="8tv">
-    <title>Love Like The Galaxy</title>
-    <desc>Bu Yi menyatakan dia tidak akan menceraikan Shao Shang. Shao Shang juga menyatakan hasratnya untuk tidak menarik balik pertunangannya dengan Bu Yi. Tetapi Maharaja Wen sentiasa bimbang tentang perkahwinan mereka</desc>
-  </programme>
-  <programme start="20260926110000 +0000" stop="20260926120000 +0000" channel="8tv">
-    <title>Let Me Take Your Pulse</title>
-    <desc>Kelakuan mabuk Yuanzhi dan Shaoguang telah dirakam secara rahsia oleh Banhan dan dimuat naik ke sembang kumpulan. Sisi, melihat foto intim mereka berdua, berasa cemburu. Qingjin, Jiaying, dan Zhanhua membincangkan keadaan Xuejuan.</desc>
-  </programme>
-  <programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="8tv">
-    <title>Mandarin News ( 2026/2027 )</title>
-  </programme>
-  <programme start="20260926130000 +0000" stop="20260926150000 +0000" channel="8tv">
-    <title>The Treasured Voice S7</title>
-    <desc>Episod ini 18 penyanyi berbakat dari China dan Taiwan membentuk 7 pasangan untuk beraksi di pentas &quot;The Treasured Voice&quot;. Setiap pasangan tampil membawakan persembahan memukau bagi memikat hati panel pengadil menerusi episod ini.</desc>
-  </programme>
-  <programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="8tv">
-    <title>Healing Heroes</title>
-    <desc>Jin Kok sebenarnya telah dibawa keluar bersiar-siar oleh Yi Ge dan Yi Fan. Dia mengaku kepada Yi Shi bahawa dia takut Shi akan meninggalkannya memandangkan keadaannya sekarang. Yi Shi memberi dia jaminan yang tegas.</desc>
-  </programme>
-  <programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="8tv">
-    <title>Healing Heroes</title>
-    <desc>Seorang pesakit menderma tiket loteri ke dalam kotak derma Jabatan Pesakit Luar sebagai bayaran untuk rawatan yang diterimanya. Keadaan Ren Hui semakin merosot dan harus menjalani rawatan Pertukaran Plasma (Plasma Exchange).</desc>
-  </programme>
-  <programme start="20260926170000 +0000" stop="20260926230000 +0000" channel="8tv">
-    <title>Eightfm @ 8Tv (2026/2027)</title>
-  </programme>
-  <programme start="20260926230000 +0000" stop="20260926234500 +0000" channel="8tv">
-    <title>Proud Of You (301-600)</title>
-    <desc>Ta Li menemani Pi Xuen ke bilik mayat Thong disimpan. Pihak polis membawa Shanhe ke balai polis untuk siasatan tentang kematian Thong dan kecederaan San Hao. Liu mengaku kepada polis tentang pembunuh Thong dan San Hao.</desc>
-  </programme>
-  <programme start="20260926234500 +0000" stop="20260927003000 +0000" channel="8tv">
-    <title>Proud Of You (301-600)</title>
-    <desc>Wenxue marah apabila diberitahu oleh Yunyun bahawa dia mendedahkan Qianna adalah Xiao Ai palsu. Yunyun menuntut Presiden Fang dan Wenling untuk membahagikan kekayaan dengan segera supaya dia boleh memiliki bahagian itu.</desc>
+  <programme start="20260930000000 +0000" stop="20260930003000 +0000" channel="ntv7">
+    <title>Sukses Matriks Tahun 4</title>
   </programme>
   <programme start="20260926234500 +0000" stop="20260927003000 +0000" channel="8tv">
     <title>Proud Of You (301-600)</title>
@@ -1006,110 +928,82 @@
     <title>Amusing Race Season 2</title>
     <desc>Episod ini menyaksikan Wind, Lin Zhi Xiang, Rickman dan Baki berdepan cabaran kulinari sengit di Bukit Sungai Lembing. Daripada menelan mi mentah hingga meniup bola pingpong, pelbagai hukuman kelakar menanti yang tewas.</desc>
   </programme>
-  <programme start="20260925225000 +0000" stop="20260926003000 +0000" channel="tv9">
-    <title>Tanyalah Ustaz 2026 (Sat &amp; Sun) : Jan - Dec</title>
+  <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="8tv">
+    <title>Amusing Race Season 2</title>
+    <desc>Episod ini menyaksikan Wind, Lin Zhi Xiang, Rickman dan Baki berdepan cabaran kulinari sengit di Bukit Sungai Lembing. Daripada menelan mi mentah hingga meniup bola pingpong, pelbagai hukuman kelakar menanti yang tewas.</desc>
   </programme>
-  <programme start="20260926003000 +0000" stop="20260926013000 +0000" channel="tv9">
+  <programme start="20260929003000 +0000" stop="20260929013000 +0000" channel="8tv">
     <title>Wow Shop</title>
   </programme>
-  <programme start="20260926013000 +0000" stop="20260926023000 +0000" channel="tv9">
+  <programme start="20260929013000 +0000" stop="20260929014500 +0000" channel="8tv">
+    <title>8Tv Morning Express 2026/2027 (Live)</title>
+  </programme>
+  <programme start="20260929014500 +0000" stop="20260929023500 +0000" channel="8tv">
+    <title>Great Times</title>
+    <desc>Chengyuan dan Ruzhen bergegas ke rumah moyang berharap dapat mencari Chee Qian dan Chiu Yeh. Mereka ternampak Chiu Yeh diikat dan dipaksa oleh Chee Qian untuk meminta maaf daripada moyang. Mereka segera selamatkan Chiu Yeh.</desc>
+  </programme>
+  <programme start="20260929023500 +0000" stop="20260929033000 +0000" channel="8tv">
     <title>Wow Shop</title>
   </programme>
-  <programme start="20260926023000 +0000" stop="20260926033000 +0000" channel="tv9">
+  <programme start="20260929033000 +0000" stop="20260929043000 +0000" channel="8tv">
     <title>Wow Shop</title>
   </programme>
-  <programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="tv9">
+  <programme start="20260929043000 +0000" stop="20260929050000 +0000" channel="8tv">
+    <title>Midday Mandarin News 2026/2027 (Live)</title>
+  </programme>
+  <programme start="20260929050000 +0000" stop="20260929060000 +0000" channel="8tv">
+    <title>Anonymous Signal</title>
+    <desc>Hei Man menjumpai Kak Ngo bersembahyang dan meminta kemaafan Siu Mei. Hei Man bertanya Kak Ngo mengenai kematian Siu Mei. Akhirnya Kak Ngo membuat pengakuan dia terbunuh Siu Mei.</desc>
+  </programme>
+  <programme start="20260929060000 +0000" stop="20260929070000 +0000" channel="8tv">
+    <title>The Promise</title>
+    <desc>Wen An teringat dirinya akan mati lemas pada usia muda lalu menjodohkan Shao Ting dengan Tai He. Rakan Zhen Guo yang menjadi orang tengah, melarikan diri setelah menerima wang daripada Wen An untuk membeli mesin jahit.</desc>
+  </programme>
+  <programme start="20260929070000 +0000" stop="20260929080000 +0000" channel="8tv">
     <title>Wow Shop</title>
   </programme>
-  <programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="tv9">
-    <title>My #Qurantime 2.0</title>
+  <programme start="20260929080000 +0000" stop="20260929090000 +0000" channel="8tv">
+    <title>Fight For Justice (1 - 250)</title>
+    <desc>Qing Tian pulih di hospital sebelum dikejutkan dengan berita kehilangan Yi Lin daripada Zhi Han. Setelah terbongkarnya rahsia Yi Lin yang mengurung Meng Zi dan Shi Wei, Li Ping pula gagal menghubungi You De.</desc>
   </programme>
-  <programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="tv9">
-    <title>Wow Shop</title>
+  <programme start="20260929090000 +0000" stop="20260929100000 +0000" channel="8tv">
+    <title>Fight For Justice (1 - 250)</title>
+    <desc>Jia Feng menyelinap masuk ke dalam pejabat Chang Sheng untuk mencuri kata kunci dalam penggodaman ke atas sistem komputer Syarikat KY. Pada ketika itu tiba Chang Sheng. Mujurnya Jing Yi yang mengetahui tujuan Jia Feng tiba.</desc>
   </programme>
-  <programme start="20260926060000 +0000" stop="20260926073000 +0000" channel="tv9">
-    <title>Istana Firdaus</title>
-    <desc>Kematian Darwish menyebabkan Liza mengalami kemurungan dan mengabaikan anak sulungnya Danial. Kamal tidak lagi mengizinkan Danial ke rumah pengasuhnya, Mak Su menyebabkan Danial berasa keseorangan dan terabai.</desc>
+  <programme start="20260929100000 +0000" stop="20260929110000 +0000" channel="8tv">
+    <title>8 E-Pulse 2026</title>
   </programme>
-  <programme start="20260926073000 +0000" stop="20260926083000 +0000" channel="tv9">
-    <title>Wow Shop</title>
+  <programme start="20260929110000 +0000" stop="20260929120000 +0000" channel="8tv">
+    <title>Heroes In White</title>
+    <desc>Wing-sum terkejut menemui Shuk-foon terbaring di atas lantai. Shuk-foon tidak sedarkan diri dan kepalanya berdarah. Selepas melakukan resusitasi, doktor menunjukkan Shuk-foon berkemungkinan mengalami lumpuh.</desc>
   </programme>
-  <programme start="20260926083000 +0000" stop="20260926090000 +0000" channel="tv9">
-    <title>Salam Taj Mahal</title>
-    <desc>Fatihah dan Asha jumpa Kamarul.Kamarul tanya Asha tentang permohonannya utk ke India. Fatihah ikut Asha balik ke kampungnya. Asha teringat waktu usia 8 tahun dia dibesarkan di rumah Bakti.</desc>
+  <programme start="20260929120000 +0000" stop="20260929130000 +0000" channel="8tv">
+    <title>Mandarin News ( 2026/2027 )</title>
   </programme>
-  <programme start="20260926090000 +0000" stop="20260926093000 +0000" channel="tv9">
-    <title>Fay &amp; Tom</title>
-    <desc>Fay dan adiknya Tom sibuk membuat persediaan untuk menganjurkan parti pada esok hari dengan menghias rumah dan laman mereka. Haiwan-haiwan akan hadir di jamuan berkenaan. Fay dan Tom menjemput seekor kuda jirannya.</desc>
+  <programme start="20260929130000 +0000" stop="20260929140000 +0000" channel="8tv">
+    <title>The Company</title>
+    <desc>Penyerbuan Fu Sheng Tang ke Zon Tian Guang memaksa Bi Zi berdepan Ye Liang Yin demi menyelamatkan Miao Tong. Dalam ketegangan mempertahankan artifak Jed Du Shan, Bei Lu berjaya menyusup masuk melalui laluan khas.</desc>
   </programme>
-  <programme start="20260926093000 +0000" stop="20260926100000 +0000" channel="tv9">
-    <title>Go Go Dino Season 5</title>
-    <desc>Andy, Joyce dan Lucas tiba di planet M25 dan disambut oleh Rex dan dibawa meneroka dunia dinosaur. Menjumpai seekor tyrannosaurus. // Andy, Joyce dan Lucas dibawa ke hutan untuk mencari dan melihat triceratops bertanduk tiga.</desc>
+  <programme start="20260929140000 +0000" stop="20260929150000 +0000" channel="8tv">
+    <title>My Star Family 3</title>
+    <desc>Keira sekeluarga makan malam di sebuah restoran bintang Michelin tajaan kru produksi. Tindakan kakak kedua Keiran mencuri beberapa roti telah didedahkan dengan sengaja. Kejadian yang tular di media sosial menyebabkan Keira rasa tertekan.</desc>
   </programme>
-  <programme start="20260926100000 +0000" stop="20260926103000 +0000" channel="tv9">
-    <title>Blippi Wonders</title>
-    <desc>WHISKERS.  Blippi mencari tahu sebab kucing mempunyai misai. Rupa-rupanya misai kucing boleh membantu mereka mengemudi persekitaran.</desc>
+  <programme start="20260929150000 +0000" stop="20260929160000 +0000" channel="8tv">
+    <title>8 E-Pulse 2026</title>
   </programme>
-  <programme start="20260926103000 +0000" stop="20260926110000 +0000" channel="tv9">
-    <title>Supa Strikas (Season 4 - 6)</title>
-    <desc>THE CRUNCH.  Supa Strikas dijadualkan 5 perlawanan dalam 3 hari. Semua ahli kumpulan terkejut kerana tiada masa untuk berehat. Tetapi mereka menerima hakikatnya setelah diberi dorongan oleh kapten mereka Dancing Rasta.</desc>
+  <programme start="20260929160000 +0000" stop="20260929170000 +0000" channel="8tv">
+    <title>The Legend Of Heroes</title>
+    <desc>Guo Jing dan Huang Rong mendapati Mu Nianci telah menyelinap masuk ke kediaman Lu Chengfeng untuk menyelamatkan Yang Kang. Yang Kang menggesa Mu Nianci mendapatkan bantuan daripada sifunya Mei Chaofeng untuk menyelamatkannya.</desc>
   </programme>
-  <programme start="20260926110000 +0000" stop="20260926115000 +0000" channel="tv9">
-    <title>Buletin Tv9 2026/2027</title>
+  <programme start="20260929170000 +0000" stop="20260929230000 +0000" channel="8tv">
+    <title>Eightfm @ 8Tv (2026/2027)</title>
   </programme>
-  <programme start="20260926115000 +0000" stop="20260926124000 +0000" channel="tv9">
-    <title>Nasi Lemak Kopi O 2026/2027</title>
+  <programme start="20260929230000 +0000" stop="20260930000000 +0000" channel="8tv">
+    <title>8 E-Pulse 2026</title>
   </programme>
-  <programme start="20260926124000 +0000" stop="20260926143000 +0000" channel="tv9">
-    <title>Serindu Taj Mahal</title>
-    <desc>Adam terpaksa memutuskan pertunangannya dengan Aishah apabila mengetahui Aishah mencintai sahabat baiknya, Shah Rizal. Aishah dan Shah Rizal kemudian bernikah dan berbulan madu di Agra, India. Malangnya jodoh mereka tak panjang.</desc>
-  </programme>
-  <programme start="20260926143000 +0000" stop="20260926153000 +0000" channel="tv9">
-    <title>Anak Pontianak</title>
-    <desc>Kamdin dan bapanya dibuang dari keluarga Sukir Maluk kerana tidak setuju dengan sikap mereka yang tamak sehingga sanggup membunuh. Kamdin menjemput Linda, Nika dan Mia ke rumah untuk menjelaskan perkara tersebut.</desc>
-  </programme>
-  <programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="tv9">
-    <title>Hero Oven 2017</title>
-    <desc>Enam peserta bersaing menyiapkan dua resipi, Strawberry Shortcake dan Biscotti, untuk penilaian Chef Fikree dan Chef Sarah. Martin akhirnya berjaya menyerlah dan terpilih sebagai &quot;Hero of the Week&quot;.</desc>
-  </programme>
-  <programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="tv9">
-    <title>Wow Shop</title>
-  </programme>
-  <programme start="20260926170000 +0000" stop="20260926175000 +0000" channel="tv9">
-    <title>Wow Shop</title>
-  </programme>
-  <programme start="20260926175000 +0000" stop="20260926180000 +0000" channel="tv9">
-    <title>Lekat Ke Idok?</title>
-    <desc>Bell Ngasri kecil-kecil pun tapi berbisa! Memang tak kering gusi Harris Anuar melayan gelagat pihak lawannya. Minggu ini antara Bell Ngasri dan Harris Anuar, siapa yang akan menang? Jom tengok &quot;Lekat Ke Idok?&quot;.</desc>
-  </programme>
-  <programme start="20260926180000 +0000" stop="20260926193000 +0000" channel="tv9">
-    <title>Istana Firdaus</title>
-    <desc>Kematian Darwish menyebabkan Liza mengalami kemurungan dan mengabaikan anak sulungnya Danial. Kamal tidak lagi mengizinkan Danial ke rumah pengasuhnya, Mak Su menyebabkan Danial berasa keseorangan dan terabai.</desc>
-  </programme>
-  <programme start="20260926193000 +0000" stop="20260926203000 +0000" channel="tv9">
-    <title>Kool 101@Tv9 (2026)</title>
-  </programme>
-  <programme start="20260926203000 +0000" stop="20260926210000 +0000" channel="tv9">
-    <title>Hero Oven 2017</title>
-    <desc>Enam peserta bersaing menyiapkan dua resipi, Strawberry Shortcake dan Biscotti, untuk penilaian Chef Fikree dan Chef Sarah. Martin akhirnya berjaya menyerlah dan terpilih sebagai &quot;Hero of the Week&quot;.</desc>
-  </programme>
-  <programme start="20260926210000 +0000" stop="20260926220000 +0000" channel="tv9">
-    <title>My #Qurantime 2.0</title>
-  </programme>
-  <programme start="20260926220000 +0000" stop="20260926222000 +0000" channel="tv9">
-    <title>Bacaan Yasin 2025</title>
-    <desc>Bacaan Surah Yasin</desc>
-  </programme>
-  <programme start="20260926222000 +0000" stop="20260926223000 +0000" channel="tv9">
-    <title>Kapsul Surah (2018)</title>
-    <desc>Bacaan SURAH AL-MULK serta terjemahannya.</desc>
-  </programme>
-  <programme start="20260926223000 +0000" stop="20260926225000 +0000" channel="tv9">
-    <title>Bacaan Yasin 2025</title>
-    <desc>Bacaan Surah Yasin</desc>
-  </programme>
-  <programme start="20260926225000 +0000" stop="20260927003000 +0000" channel="tv9">
-    <title>Tanyalah Ustaz 2026 (Sat &amp; Sun) : Jan - Dec</title>
+  <programme start="20260930000000 +0000" stop="20260930003000 +0000" channel="8tv">
+    <title>Amusing Race Season 2</title>
+    <desc>Episod ini menyaksikan Wind, Lin Zhi Xiang, Rickman dan Baki di Pantai Pasir Lanun untuk cabaran mengukit roti dan ujian imbangan. Persaingan berlumpur di Telok Gorek turut menguji daya tahan mereka demi mengelak hukuman.</desc>
   </programme>
   <programme start="20260926225000 +0000" stop="20260927003000 +0000" channel="tv9">
     <title>Tanyalah Ustaz 2026 (Sat &amp; Sun) : Jan - Dec</title>
@@ -1334,81 +1228,119 @@
   <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="tv9">
     <title>Tanyalah Ustaz July – Dec 2026</title>
   </programme>
-  <programme start="20260925230000 +0000" stop="20260926010000 +0000" channel="ds">
-    <title>Kisah Cinta Kita</title>
-    <desc>Lakonan Aleesa menyamar sebagi Natasya berjaya menyedarkan Datuk Ramzi. Pada masa sama dia menjaga ibunya selepas pembedahan sakit kansernya. Amer mengarahkan Aleesa terus menjaga Datuk Ramzi sekalipun dia telah sembuh.</desc>
+  <programme start="20260929000000 +0000" stop="20260929003000 +0000" channel="tv9">
+    <title>Tanyalah Ustaz July – Dec 2026</title>
   </programme>
-  <programme start="20260926010000 +0000" stop="20260926020000 +0000" channel="ds">
-    <title>Takdir Yang Tertulis</title>
-    <desc>Mika kelaparan, dia merayau-rayau tanpa hala tuju mencari makanan dengan hanya berkaki ayam di belakang sebuah restoran. Mujurlah Kak Jo pada ketika itu berada di kawasan tersebut terkejut apabila melihat Mika.</desc>
-  </programme>
-  <programme start="20260926020000 +0000" stop="20260926030000 +0000" channel="ds">
+  <programme start="20260929003000 +0000" stop="20260929013000 +0000" channel="tv9">
     <title>Wow Shop</title>
   </programme>
-  <programme start="20260926030000 +0000" stop="20260926040000 +0000" channel="ds">
-    <title>Hospital Loveline</title>
-    <desc>Opah dibawa ke hospital dan dirawat oleh doktor Arfan dan Sophia juga turut menyantuni Opahnya semasa rawatan. Opah cuba untuk melaga-lagakan Sophia dengan doktor Arfan supaya boleh berkenalan antara satu sama lain.</desc>
-  </programme>
-  <programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="ds">
+  <programme start="20260929013000 +0000" stop="20260929023000 +0000" channel="tv9">
     <title>Wow Shop</title>
   </programme>
-  <programme start="20260926050000 +0000" stop="20260926070000 +0000" channel="ds">
-    <title>Kisah Cinta Kita</title>
-    <desc>Lakonan Aleesa menyamar sebagi Natasya berjaya menyedarkan Datuk Ramzi. Pada masa sama dia menjaga ibunya selepas pembedahan sakit kansernya. Amer mengarahkan Aleesa terus menjaga Datuk Ramzi sekalipun dia telah sembuh.</desc>
-  </programme>
-  <programme start="20260926070000 +0000" stop="20260926080000 +0000" channel="ds">
-    <title>Takdir Yang Tertulis</title>
-    <desc>Mika kelaparan, dia merayau-rayau tanpa hala tuju mencari makanan dengan hanya berkaki ayam di belakang sebuah restoran. Mujurlah Kak Jo pada ketika itu berada di kawasan tersebut terkejut apabila melihat Mika.</desc>
-  </programme>
-  <programme start="20260926080000 +0000" stop="20260926090000 +0000" channel="ds">
+  <programme start="20260929023000 +0000" stop="20260929033000 +0000" channel="tv9">
     <title>Wow Shop</title>
   </programme>
-  <programme start="20260926090000 +0000" stop="20260926100000 +0000" channel="ds">
-    <title>Hospital Loveline</title>
-    <desc>Opah dibawa ke hospital dan dirawat oleh doktor Arfan dan Sophia juga turut menyantuni Opahnya semasa rawatan. Opah cuba untuk melaga-lagakan Sophia dengan doktor Arfan supaya boleh berkenalan antara satu sama lain.</desc>
-  </programme>
-  <programme start="20260926100000 +0000" stop="20260926110000 +0000" channel="ds">
+  <programme start="20260929033000 +0000" stop="20260929040000 +0000" channel="tv9">
     <title>Wow Shop</title>
   </programme>
-  <programme start="20260926110000 +0000" stop="20260926130000 +0000" channel="ds">
-    <title>Kisah Cinta Kita</title>
-    <desc>Lakonan Aleesa menyamar sebagi Natasya berjaya menyedarkan Datuk Ramzi. Pada masa sama dia menjaga ibunya selepas pembedahan sakit kansernya. Amer mengarahkan Aleesa terus menjaga Datuk Ramzi sekalipun dia telah sembuh.</desc>
+  <programme start="20260929040000 +0000" stop="20260929050000 +0000" channel="tv9">
+    <title>My #Qurantime 2.0</title>
   </programme>
-  <programme start="20260926130000 +0000" stop="20260926140000 +0000" channel="ds">
-    <title>Takdir Yang Tertulis</title>
-    <desc>Mika kelaparan, dia merayau-rayau tanpa hala tuju mencari makanan dengan hanya berkaki ayam di belakang sebuah restoran. Mujurlah Kak Jo pada ketika itu berada di kawasan tersebut terkejut apabila melihat Mika.</desc>
-  </programme>
-  <programme start="20260926140000 +0000" stop="20260926150000 +0000" channel="ds">
+  <programme start="20260929050000 +0000" stop="20260929060000 +0000" channel="tv9">
     <title>Wow Shop</title>
   </programme>
-  <programme start="20260926150000 +0000" stop="20260926160000 +0000" channel="ds">
-    <title>Hospital Loveline</title>
-    <desc>Opah dibawa ke hospital dan dirawat oleh doktor Arfan dan Sophia juga turut menyantuni Opahnya semasa rawatan. Opah cuba untuk melaga-lagakan Sophia dengan doktor Arfan supaya boleh berkenalan antara satu sama lain.</desc>
+  <programme start="20260929060000 +0000" stop="20260929073000 +0000" channel="tv9">
+    <title>Mr. Maid, Suami Ibu</title>
+    <desc>Myazara seorang wanita berkerjaya yang sentiasa sibuk merupakan anak tunggal dan ibunya sangat mengharapkan dia cepat berkahwin. Suatu hari rakan baiknya kemalangan dan dia terpaksa menjaga Arjuna, anak rakannya itu.</desc>
   </programme>
-  <programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="ds">
+  <programme start="20260929073000 +0000" stop="20260929080000 +0000" channel="tv9">
+    <title>Suamiku Mat Piun</title>
+    <desc>Selepas anak pertama mereka lahir iaitu Firash Danial Hakimi Qarshiman Abadi, Poji dan Nieza dikurniakan seorang lagi anak, Kayla Chenta Aminah Delaila dinamakan sempena nama koleksi hero dan heroin drama pujaan mereka.</desc>
+  </programme>
+  <programme start="20260929080000 +0000" stop="20260929090000 +0000" channel="tv9">
+    <title>Nasi Lemak Kopi O 2026/2027</title>
+  </programme>
+  <programme start="20260929090000 +0000" stop="20260929093000 +0000" channel="tv9">
+    <title>Beyblade X (Gen 4)</title>
+    <desc>Pasukan Persona hanya perlu menyelesaikan satu lagi teka-teki  meraih kemasyhuran dan kekayaan. Kepintaran Multi Nana-iro dan semangat pasukan Persona berjaya menyelesaikan semua ujian teka-teki sehingga mereka layak menerima pujian.</desc>
+  </programme>
+  <programme start="20260929093000 +0000" stop="20260929100000 +0000" channel="tv9">
+    <title>Oddbods Season 4</title>
+    <desc>Fuse ingin memenangi pertandingan aksi trak raksasa tetapi yang mengejutkannya, Jeff adalah salah seorang pesaingnya. Untuk mengalahkan Jeff, Fuse mengubah suai trak raksasanya dan kedua-dua Oddbod bersaing sengit.</desc>
+  </programme>
+  <programme start="20260929100000 +0000" stop="20260929103000 +0000" channel="tv9">
+    <title>Bread Barbershop (Season 1)</title>
+    <desc>SOCCER KING BREAD.  Pasukan bola sepak Bakery Town mengadakan sesi pemilihan pemain, dan Bread berbangga dengan zaman kegemilangannya sebagai bintang bola sepak sambil menggunakan kaedah pelik untuk melatih Wilk.</desc>
+  </programme>
+  <programme start="20260929103000 +0000" stop="20260929110000 +0000" channel="tv9">
+    <title>Supa Strikas (Season 4 - 6)</title>
+    <desc>LIVE &amp; KICKING.  Shakes dan rakan-rakannya yang memenangi rancangan Anugerah Liga Super dijemput untuk bertanding di Soccer Island, yang sebenarnya merupakan rancangan TV realiti yang penuh dengan cabaran untuk pemain.</desc>
+  </programme>
+  <programme start="20260929110000 +0000" stop="20260929115000 +0000" channel="tv9">
+    <title>Buletin Tv9 2026/2027</title>
+  </programme>
+  <programme start="20260929115000 +0000" stop="20260929124000 +0000" channel="tv9">
+    <title>Bukan Cinta Aku</title>
+    <desc>Segala keperluan Riana disediakan tetapi Riana masih murung dan tidak mahu bercakap dengan Tengku Isma. Pelbagai cara Tengku Isma memujuk Riana tetapi dia tetap keras hati. Riana tidak mampu melupakan Arjuna.</desc>
+  </programme>
+  <programme start="20260929124000 +0000" stop="20260929143000 +0000" channel="tv9">
+    <title>Misteri Akil Balik</title>
+    <desc>Kemunculan Akil di kampung halamannya menimbulkan persoalan orang kampung. Mereka rasa sejak adanya Akil, pelbagai perkara misteri berlaku. Terutamanya dua pemuda kampung yang nakal iaitu Oden dan Ucop.</desc>
+  </programme>
+  <programme start="20260929143000 +0000" stop="20260929153000 +0000" channel="tv9">
+    <title>My Sweet Mobster</title>
+    <desc>Seo Ji Hwan, bekas ketua kumpulan kongsi gelap Bulldog, kini mengendalikan Thirsty Deer Corporation yang membuat produk sejuk beku. Eun Ha pula seorang pencipta kandungan cerita kanak-kanak untuk We Tuber, dikenali sebagai Kak Mini.</desc>
+  </programme>
+  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="tv9">
+    <title>Dunia Tersembunyi</title>
+    <desc>POLIANDRI.  Amalan Poliandri terkenal dalam masyarakat di Kaza, sebuah kawasan tinggi di Himachal Pradesh, utara India, di mana isteri mempunyai lebih daripada seorang suami dalam satu masa.</desc>
+  </programme>
+  <programme start="20260929160000 +0000" stop="20260929170000 +0000" channel="tv9">
+    <title>Plan B</title>
+    <desc>Khai gigih menjalani latihan teknik mencuri kereta mewah daripada Encik Boon sambil diperhati Airis dan Mica. Dalam pada itu, Que yang berada dalam tahanan membocorkan maklumat lumba haram pihak atasan kepada polis.</desc>
+  </programme>
+  <programme start="20260929170000 +0000" stop="20260929175000 +0000" channel="tv9">
     <title>Wow Shop</title>
   </programme>
-  <programme start="20260926170000 +0000" stop="20260926190000 +0000" channel="ds">
-    <title>Kisah Cinta Kita</title>
-    <desc>Aleesa kecewa sebab perkahwinannya dengan Amer terpaksa disembunyikan daripada pengetahuan ibunya Hanisah. Alisa juga sudah masuk syarikat Hana Beuty menggantikan Natasya. Penyamarannya semakin besar,</desc>
+  <programme start="20260929175000 +0000" stop="20260929175500 +0000" channel="tv9">
+    <title>Senang Terhibur Shorts</title>
+    <desc>Sedutan klip video dari rancangan hiburan Pi Mai Pi Mai Tang Tu.</desc>
   </programme>
-  <programme start="20260926190000 +0000" stop="20260926200000 +0000" channel="ds">
-    <title>Takdir Yang Tertulis</title>
-    <desc>Cik Salmah bertemu dengan Hakim di rumah lamanya. Hakim cuba tenangkan Cik Salmah yang marahkan tindakan Ruhila. Mereka berdua semakin ligat membuat rancangan baru untuk menjatuhkan Azlan dan Juweta.</desc>
+  <programme start="20260929175500 +0000" stop="20260929180000 +0000" channel="tv9">
+    <title>Senang Terhibur Shorts</title>
+    <desc>Sedutan klip video dari rancangan hiburan Pi Mai Pi Mai.</desc>
   </programme>
-  <programme start="20260926200000 +0000" stop="20260926210000 +0000" channel="ds">
-    <title>Wow Shop</title>
+  <programme start="20260929180000 +0000" stop="20260929193000 +0000" channel="tv9">
+    <title>Mr. Maid, Suami Ibu</title>
+    <desc>Myazara seorang wanita berkerjaya yang sentiasa sibuk merupakan anak tunggal dan ibunya sangat mengharapkan dia cepat berkahwin. Suatu hari rakan baiknya kemalangan dan dia terpaksa menjaga Arjuna, anak rakannya itu.</desc>
   </programme>
-  <programme start="20260926210000 +0000" stop="20260926220000 +0000" channel="ds">
-    <title>Hospital Loveline</title>
-    <desc>Seorang doktor pakar jantung yang mempunyai agendanya tersendiri cuba mempengaruhi seorang pesakit untuk mengulangi satu prosedur jantung. Doktor Arfan dan Sophia mula rapat setelah Sophia menjadi jurupulih beliau.</desc>
+  <programme start="20260929193000 +0000" stop="20260929203000 +0000" channel="tv9">
+    <title>Kool 101@Tv9 (2026)</title>
   </programme>
-  <programme start="20260926220000 +0000" stop="20260926230000 +0000" channel="ds">
-    <title>Wow Shop</title>
+  <programme start="20260929203000 +0000" stop="20260929210000 +0000" channel="tv9">
+    <title>Suamiku Mat Piun</title>
+    <desc>Selepas anak pertama mereka lahir iaitu Firash Danial Hakimi Qarshiman Abadi, Poji dan Nieza dikurniakan seorang lagi anak, Kayla Chenta Aminah Delaila dinamakan sempena nama koleksi hero dan heroin drama pujaan mereka.</desc>
   </programme>
-  <programme start="20260926230000 +0000" stop="20260927010000 +0000" channel="ds">
-    <title>Kisah Cinta Kita</title>
-    <desc>Aleesa kecewa sebab perkahwinannya dengan Amer terpaksa disembunyikan daripada pengetahuan ibunya Hanisah. Alisa juga sudah masuk syarikat Hana Beuty menggantikan Natasya. Penyamarannya semakin besar,</desc>
+  <programme start="20260929210000 +0000" stop="20260929220000 +0000" channel="tv9">
+    <title>My #Qurantime 2.0</title>
+  </programme>
+  <programme start="20260929220000 +0000" stop="20260929222000 +0000" channel="tv9">
+    <title>Bacaan Yasin 2025</title>
+    <desc>Bacaan Surah Yasin</desc>
+  </programme>
+  <programme start="20260929222000 +0000" stop="20260929223000 +0000" channel="tv9">
+    <title>Kapsul Surah (2018)</title>
+    <desc>Bacaan SURAH AL-MULK serta terjemahannya.</desc>
+  </programme>
+  <programme start="20260929223000 +0000" stop="20260929225000 +0000" channel="tv9">
+    <title>Bacaan Yasin 2025</title>
+    <desc>Bacaan Surah Yasin</desc>
+  </programme>
+  <programme start="20260929225000 +0000" stop="20260930000000 +0000" channel="tv9">
+    <title>Tanyalah Ustaz July – Dec 2026</title>
+  </programme>
+  <programme start="20260930000000 +0000" stop="20260930003000 +0000" channel="tv9">
+    <title>Tanyalah Ustaz July – Dec 2026</title>
   </programme>
   <programme start="20260926230000 +0000" stop="20260927010000 +0000" channel="ds">
     <title>Kisah Cinta Kita</title>
@@ -1586,89 +1518,97 @@
     <title>Seoul Cinta</title>
     <desc>Azra memakai cincin tanda selepas Lokman datang merisik. Kawan baik Daniel cuba menasihati Daniel supaya berhati-hati sebelum meneruskan niatnya untuk mempunyai hubungan dengan Raisya. Daniel bertemu Raisya di Hotel Kucing Azra.</desc>
   </programme>
-  <programme start="20260925224000 +0000" stop="20260926001000 +0000" channel="thrill">
-    <title>Evie</title>
-    <desc>When young Evie discovers a cursed necklace washed up on the beach, she is unaware of the malevolent force tied to it. As the necklace's dark power begins to grip her, she inadvertently awakens a deadly water demon intent on claiming her and everyone she holds dear.</desc>
+  <programme start="20260929000000 +0000" stop="20260929010000 +0000" channel="ds">
+    <title>Seoul Cinta</title>
+    <desc>Azra memakai cincin tanda selepas Lokman datang merisik. Kawan baik Daniel cuba menasihati Daniel supaya berhati-hati sebelum meneruskan niatnya untuk mempunyai hubungan dengan Raisya. Daniel bertemu Raisya di Hotel Kucing Azra.</desc>
   </programme>
-  <programme start="20260926001000 +0000" stop="20260926003500 +0000" channel="thrill">
-    <title>Model Family</title>
-    <desc>A single-parent family (Yu Xiang and Tong Tong) moves into a new neighbourhood where everyone’s life seems perfect.  However, while things may look rosy on the outside, dark secrets and horror raid each family from the inside, and nothing really are as they seem.</desc>
+  <programme start="20260929010000 +0000" stop="20260929020000 +0000" channel="ds">
+    <title>Akad Tak Dipinta</title>
+    <desc>Seth patah balik ke rumah Seri dan menyuruh Lyn balik ke KL. Ikmal datang ke rumah Seri untuk memberikan makanan kepada Seri lalu diajak makan bersama dengannya dan Seth dan Seth berasa sangat cemburu dengan layanan Seri kepada Ikmal.</desc>
   </programme>
-  <programme start="20260926003500 +0000" stop="20260926010500 +0000" channel="thrill">
-    <title>Model Family</title>
-    <desc>A single-parent family (Yu Xiang and Tong Tong) moves into a new neighbourhood where everyone’s life seems perfect.  However, while things may look rosy on the outside, dark secrets and horror raid each family from the inside, and nothing really are as they seem.</desc>
+  <programme start="20260929020000 +0000" stop="20260929030000 +0000" channel="ds">
+    <title>Wow Shop</title>
   </programme>
-  <programme start="20260926010500 +0000" stop="20260926024000 +0000" channel="thrill">
-    <title>Waning Moon</title>
-    <desc>Nuanchan is a famous and highly respected spiritual medium in a rural village in Thailand. She wants to train her niece, Ploy, to succeed her and Ploy needs to remain a virgin. When Ploy falls in love with her childhood friend Tul, their lives are in danger as the secret of the spiritual world is being unveiled.</desc>
+  <programme start="20260929030000 +0000" stop="20260929040000 +0000" channel="ds">
+    <title>Aku Bukan Ustazah</title>
+    <desc>Aminah terkejut apabila dia bertemu dengan Azhar dan Haziqah. Aminah semakin rapat dengan Adam. Adam semakin resah semenjak berjauhan dengan Aminah. Dia mula rasa serba salah dan bertanggungjawab atas apa yang jadi pada Aminah.</desc>
   </programme>
-  <programme start="20260926024000 +0000" stop="20260926035500 +0000" channel="thrill">
-    <title>The Case Of Disappearances</title>
-    <desc>In Misty Village, the adopted son Wen Jie is haunted by a recurring nightmare. He delves into a series of disappearance cases in the village to seek his true identity. As more villagers die mysteriously, belief in the curse of Emperor Jing Lung intensifies. Wen Jie teams up with the security chief to unveil the conspiracy and protect the villagers.</desc>
+  <programme start="20260929040000 +0000" stop="20260929050000 +0000" channel="ds">
+    <title>Wow Shop</title>
   </programme>
-  <programme start="20260926035500 +0000" stop="20260926050000 +0000" channel="thrill">
-    <title>Sinister - Luk Krok</title>
-    <desc>Si Nan and her husband travel to Kuala Lumpur for a vacation to relieve her pregnancy stress. However, she soon uncovers his evil plan to turn their child into a 'Luk Krok' for profit, which puts her in grave danger. With the help of the hotel ghosts, she manages to flee and alert the police to arrest him, finally giving birth to her child.</desc>
+  <programme start="20260929050000 +0000" stop="20260929060000 +0000" channel="ds">
+    <title>I Am Not A Loser</title>
+    <desc>Zhen Xin menyesal apabila mengimbas kembali perilaku kejam dirinya yang menyebabkan kematian rakan sekelasnya Xi Xi secara tidak sengaja. Dia mengakui kepada Guang Yao tentang jenayah yang dia pernah lakukan dahulu.</desc>
   </programme>
-  <programme start="20260926050000 +0000" stop="20260926064000 +0000" channel="thrill">
-    <title>Mid-Night Two</title>
-    <desc>Yi Cheng and his friends venture into a haunted mountain that hides an ancient corpse and an eternal ghostly flame. No one who enters the mountain ever returns and at 2:30 AM, Yi Cheng’s friends vanish one by one. While searching for them in the eerie forest, Yi Cheng enters a realm of infinite reincarnation, facing a series of terrifying events…</desc>
+  <programme start="20260929060000 +0000" stop="20260929070000 +0000" channel="ds">
+    <title>Seoul Cinta</title>
+    <desc>Azra memakai cincin tanda selepas Lokman datang merisik. Kawan baik Daniel cuba menasihati Daniel supaya berhati-hati sebelum meneruskan niatnya untuk mempunyai hubungan dengan Raisya. Daniel bertemu Raisya di Hotel Kucing Azra.</desc>
   </programme>
-  <programme start="20260926064000 +0000" stop="20260926081000 +0000" channel="thrill">
-    <title>Evie</title>
-    <desc>When young Evie discovers a cursed necklace washed up on the beach, she is unaware of the malevolent force tied to it. As the necklace's dark power begins to grip her, she inadvertently awakens a deadly water demon intent on claiming her and everyone she holds dear.</desc>
+  <programme start="20260929070000 +0000" stop="20260929080000 +0000" channel="ds">
+    <title>Akad Tak Dipinta</title>
+    <desc>Seth patah balik ke rumah Seri dan menyuruh Lyn balik ke KL. Ikmal datang ke rumah Seri untuk memberikan makanan kepada Seri lalu diajak makan bersama dengannya dan Seth dan Seth berasa sangat cemburu dengan layanan Seri kepada Ikmal.</desc>
   </programme>
-  <programme start="20260926081000 +0000" stop="20260926083500 +0000" channel="thrill">
-    <title>Model Family</title>
-    <desc>A single-parent family (Yu Xiang and Tong Tong) moves into a new neighbourhood where everyone’s life seems perfect.  However, while things may look rosy on the outside, dark secrets and horror raid each family from the inside, and nothing really are as they seem.</desc>
+  <programme start="20260929080000 +0000" stop="20260929090000 +0000" channel="ds">
+    <title>Wow Shop</title>
   </programme>
-  <programme start="20260926083500 +0000" stop="20260926090500 +0000" channel="thrill">
-    <title>Model Family</title>
-    <desc>A single-parent family (Yu Xiang and Tong Tong) moves into a new neighbourhood where everyone’s life seems perfect.  However, while things may look rosy on the outside, dark secrets and horror raid each family from the inside, and nothing really are as they seem.</desc>
+  <programme start="20260929090000 +0000" stop="20260929100000 +0000" channel="ds">
+    <title>Aku Bukan Ustazah</title>
+    <desc>Aminah terkejut apabila dia bertemu dengan Azhar dan Haziqah. Aminah semakin rapat dengan Adam. Adam semakin resah semenjak berjauhan dengan Aminah. Dia mula rasa serba salah dan bertanggungjawab atas apa yang jadi pada Aminah.</desc>
   </programme>
-  <programme start="20260926090500 +0000" stop="20260926104000 +0000" channel="thrill">
-    <title>Waning Moon</title>
-    <desc>Nuanchan is a famous and highly respected spiritual medium in a rural village in Thailand. She wants to train her niece, Ploy, to succeed her and Ploy needs to remain a virgin. When Ploy falls in love with her childhood friend Tul, their lives are in danger as the secret of the spiritual world is being unveiled.</desc>
+  <programme start="20260929100000 +0000" stop="20260929110000 +0000" channel="ds">
+    <title>Wow Shop</title>
   </programme>
-  <programme start="20260926104000 +0000" stop="20260926115500 +0000" channel="thrill">
-    <title>The Case Of Disappearances</title>
-    <desc>In Misty Village, the adopted son Wen Jie is haunted by a recurring nightmare. He delves into a series of disappearance cases in the village to seek his true identity. As more villagers die mysteriously, belief in the curse of Emperor Jing Lung intensifies. Wen Jie teams up with the security chief to unveil the conspiracy and protect the villagers.</desc>
+  <programme start="20260929110000 +0000" stop="20260929120000 +0000" channel="ds">
+    <title>I Am Not A Loser</title>
+    <desc>The heroine of the story – Zhen Xin has been handed a seven years prison sentence as she involves in a case of bullying which caused the death of her classmate while she was at school.</desc>
   </programme>
-  <programme start="20260926115500 +0000" stop="20260926130000 +0000" channel="thrill">
-    <title>Sinister - Luk Krok</title>
-    <desc>Si Nan and her husband travel to Kuala Lumpur for a vacation to relieve her pregnancy stress. However, she soon uncovers his evil plan to turn their child into a 'Luk Krok' for profit, which puts her in grave danger. With the help of the hotel ghosts, she manages to flee and alert the police to arrest him, finally giving birth to her child.</desc>
+  <programme start="20260929120000 +0000" stop="20260929130000 +0000" channel="ds">
+    <title>Seoul Cinta</title>
+    <desc>Azra memakai cincin tanda selepas Lokman datang merisik. Kawan baik Daniel cuba menasihati Daniel supaya berhati-hati sebelum meneruskan niatnya untuk mempunyai hubungan dengan Raisya. Daniel bertemu Raisya di Hotel Kucing Azra.</desc>
   </programme>
-  <programme start="20260926130000 +0000" stop="20260926144000 +0000" channel="thrill">
-    <title>Fate Jealous Greed</title>
-    <desc>The film consists of three short horror stories: a man tries to survive after he received a haunted mail predicting his death; while a man mourns the death of his beloved wife, she becomes a ghost and tries to communicate with him; three brothers clash over the care options of their elderly mother during dinner, leading to a terrifying murder.</desc>
+  <programme start="20260929130000 +0000" stop="20260929140000 +0000" channel="ds">
+    <title>Akad Tak Dipinta</title>
+    <desc>Seth patah balik ke rumah Seri dan menyuruh Lyn balik ke KL. Ikmal datang ke rumah Seri untuk memberikan makanan kepada Seri lalu diajak makan bersama dengannya dan Seth dan Seth berasa sangat cemburu dengan layanan Seri kepada Ikmal.</desc>
   </programme>
-  <programme start="20260926144000 +0000" stop="20260926161000 +0000" channel="thrill">
-    <title>The Windmill Massacre</title>
-    <desc>Jennifer joins a tour to explore the renowned windmills of the Netherlands. As their tour coach breaks down on the way, they seek refuge in a creepy shed near a sinister windmill with a dark history. When some tour members suddenly disappear, Jennifer discovers a shared secret among them, linking their fates in a chilling revelation.</desc>
+  <programme start="20260929140000 +0000" stop="20260929150000 +0000" channel="ds">
+    <title>Wow Shop</title>
   </programme>
-  <programme start="20260926161000 +0000" stop="20260926170000 +0000" channel="thrill">
-    <title>3Am - The Hospital</title>
-    <desc>A woman in hospital accidentally discovers her husband’s affair. On the verge of breakdown, she begins to encounter a “stranger” who claims to also be a victim of the affair. Is this entity a figment of her imagination or a vengeful spirit? As she struggles to control her thoughts and actions, can she stop herself from hurting those around her?</desc>
+  <programme start="20260929150000 +0000" stop="20260929160000 +0000" channel="ds">
+    <title>Aku Bukan Ustazah</title>
+    <desc>Aminah terkejut apabila dia bertemu dengan Azhar dan Haziqah. Aminah semakin rapat dengan Adam. Adam semakin resah semenjak berjauhan dengan Aminah. Dia mula rasa serba salah dan bertanggungjawab atas apa yang jadi pada Aminah.</desc>
   </programme>
-  <programme start="20260926170000 +0000" stop="20260926183000 +0000" channel="thrill">
-    <title>Rooftop</title>
-    <desc>A group of friends invites Paul to a secret party on their campus rooftop. When a prank accidentally kills Paul, the friends cover up the incident and promised never to disclose it. Paul vows to take revenge by becoming a vicious ghost to haunt them into taking responsibility for their actions.</desc>
+  <programme start="20260929160000 +0000" stop="20260929170000 +0000" channel="ds">
+    <title>Wow Shop</title>
   </programme>
-  <programme start="20260926183000 +0000" stop="20260926200000 +0000" channel="thrill">
-    <title>Room For Rent</title>
-    <desc>Lonely widow Joyce rents out a room in her house and becomes dangerously obsessed with a younger guest. Desperate for love, she is willing to eliminate anyone hindering her pursuit of happiness, and a chilling tale of obsession unfolds.</desc>
+  <programme start="20260929170000 +0000" stop="20260929180000 +0000" channel="ds">
+    <title>I Am Not A Loser</title>
+    <desc>The heroine of the story – Zhen Xin has been handed a seven years prison sentence as she involves in a case of bullying which caused the death of her classmate while she was at school.</desc>
   </programme>
-  <programme start="20260926200000 +0000" stop="20260926210000 +0000" channel="thrill">
-    <title>Sinister - The Gates Of Hell</title>
-    <desc>Artiste Yin Qing enters Hell's Gate through a supernatural TV show and reunites with her late friend Mei Qi. At Mei Qi's gravesite, Yin Qing encounters Mei Qi's husband, Dong Sheng, and a series of mysterious incidents unfold. She then brings Dong Sheng onto the show, where Mei Qi exposes his infidelity and reveals the conspiracy behind her death.</desc>
+  <programme start="20260929180000 +0000" stop="20260929190000 +0000" channel="ds">
+    <title>Seoul Cinta</title>
+    <desc>Raisya sudah terang-terang menunjukkan hubungannya dengan Daniel dan bangga kerana menjadi kekasih seorang CEO. Dia sanggup membatalkan beberapa komitmen dengan klien yang membuatkan PA-nya berhenti kerja.</desc>
   </programme>
-  <programme start="20260926210000 +0000" stop="20260926224000 +0000" channel="thrill">
-    <title>Fate Jealous Greed</title>
-    <desc>The film consists of three short horror stories: a man tries to survive after he received a haunted mail predicting his death; while a man mourns the death of his beloved wife, she becomes a ghost and tries to communicate with him; three brothers clash over the care options of their elderly mother during dinner, leading to a terrifying murder.</desc>
+  <programme start="20260929190000 +0000" stop="20260929200000 +0000" channel="ds">
+    <title>Akad Tak Dipinta</title>
+    <desc>Meskipun dilayan kasar, Seri tetap menjaga Seth yang demam. Dalam pada itu, isu rakan kongsi syarikat mula disiasat, manakala Seth secara rahsia mengupah penyiasat persendirian bagi membongkar kebenaran tentang Harlyn.</desc>
   </programme>
-  <programme start="20260926224000 +0000" stop="20260927001000 +0000" channel="thrill">
-    <title>The Windmill Massacre</title>
-    <desc>Jennifer joins a tour to explore the renowned windmills of the Netherlands. As their tour coach breaks down on the way, they seek refuge in a creepy shed near a sinister windmill with a dark history. When some tour members suddenly disappear, Jennifer discovers a shared secret among them, linking their fates in a chilling revelation.</desc>
+  <programme start="20260929200000 +0000" stop="20260929210000 +0000" channel="ds">
+    <title>Wow Shop</title>
+  </programme>
+  <programme start="20260929210000 +0000" stop="20260929220000 +0000" channel="ds">
+    <title>Hospital Loveline</title>
+    <desc>Opah masih berselera untuk makan tetapi tekak beliau payah untuk menelan makanan yang dimakan. Sophia dapat rasakan yang Dr Arfan sangat mesra dan secocok dengan Dr Bella memandangkan mereka bekas kekasih semasa belajar dulu.</desc>
+  </programme>
+  <programme start="20260929220000 +0000" stop="20260929230000 +0000" channel="ds">
+    <title>Wow Shop</title>
+  </programme>
+  <programme start="20260929230000 +0000" stop="20260930000000 +0000" channel="ds">
+    <title>I Am Not A Loser</title>
+    <desc>Zhan Wang bergelut dengan rasa bersalah terhadap Ke En akibat merindui Zhen Xin. Sementara itu, Wan Ling yang dipecat atas kecuaian sendiri tidak mengalah dan berjaya memujuk majikannya untuk memberi peluang terakhir.</desc>
+  </programme>
+  <programme start="20260930000000 +0000" stop="20260930010000 +0000" channel="ds">
+    <title>Seoul Cinta</title>
+    <desc>Raisya sudah terang-terang menunjukkan hubungannya dengan Daniel dan bangga kerana menjadi kekasih seorang CEO. Dia sanggup membatalkan beberapa komitmen dengan klien yang membuatkan PA-nya berhenti kerja.</desc>
   </programme>
   <programme start="20260926224000 +0000" stop="20260927001000 +0000" channel="thrill">
     <title>The Windmill Massacre</title>
@@ -1826,65 +1766,93 @@
     <title>Paper Man</title>
     <desc>As the police investigate a gang murder case, another mysterious paper man murder occurs, and the suspects are killed one by one. Continuing to track the clues of the case, the police finally unveil a hidden secret and tragedy spanning two generations.</desc>
   </programme>
-  <programme start="20260925223100 +0000" stop="20260926004228 +0000" channel="fifa">
-    <title>Japan V Sweden | Quarter-Final | Fifa Women'S World Cup 2023 | Full Match Replay</title>
-    <desc>Watch the full match replay between Japan and Sweden played at Eden Park, Auckland.</desc>
+  <programme start="20260928223000 +0000" stop="20260929000500 +0000" channel="thrill">
+    <title>Paper Man</title>
+    <desc>As the police investigate a gang murder case, another mysterious paper man murder occurs, and the suspects are killed one by one. Continuing to track the clues of the case, the police finally unveil a hidden secret and tragedy spanning two generations.</desc>
   </programme>
-  <programme start="20260926004228 +0000" stop="20260926024422 +0000" channel="fifa">
-    <title>Nigeria V France | Group A | Fifa Women'S World Cup France 2019™ | Full Match Replay</title>
-    <desc>Watch the full match replay between Nigeria and France from Rennes, 17 June 2019.</desc>
+  <programme start="20260929000500 +0000" stop="20260929014000 +0000" channel="thrill">
+    <title>Mama Ghost</title>
+    <desc>In a coastal town, a forbidden romance sparks between Rico and Sisca, and their love unleashes a malevolent spirit. As chilling deaths plague the town, past secrets are being unraveled and the town is possessed by evil and fear. Rico must defy destiny and fight against the evil spirit to save his loved one.</desc>
   </programme>
-  <programme start="20260926024422 +0000" stop="20260926050630 +0000" channel="fifa">
-    <title>U20 Fifa World Cup, Women 2026 Usa U20 V Italy U20</title>
-    <desc>U20 FIFA World Cup, Women 2026 USA U20 v Italy U20</desc>
+  <programme start="20260929014000 +0000" stop="20260929021000 +0000" channel="thrill">
+    <title>Model Family</title>
+    <desc>A single-parent family (Yu Xiang and Tong Tong) moves into a new neighbourhood where everyone’s life seems perfect.  However, while things may look rosy on the outside, dark secrets and horror raid each family from the inside, and nothing really are as they seem.</desc>
   </programme>
-  <programme start="20260926050630 +0000" stop="20260926071642 +0000" channel="fifa">
-    <title>England V Denmark | Group D | Fifa Women'S World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
-    <desc>Watch the full match replay between England and Denmark at Sydney Football Stadium, Sydney.</desc>
+  <programme start="20260929021000 +0000" stop="20260929023500 +0000" channel="thrill">
+    <title>Model Family</title>
+    <desc>A single-parent family (Yu Xiang and Tong Tong) moves into a new neighbourhood where everyone’s life seems perfect.  However, while things may look rosy on the outside, dark secrets and horror raid each family from the inside, and nothing really are as they seem.</desc>
   </programme>
-  <programme start="20260926071642 +0000" stop="20260926092839 +0000" channel="fifa">
-    <title>Portugal V Usa | Group E | Fifa Women'S World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
-    <desc>Watch the full match replay between Portugal and USA at Eden Park, Auckland.</desc>
+  <programme start="20260929023500 +0000" stop="20260929040500 +0000" channel="thrill">
+    <title>Painted Face</title>
+    <desc>Scholar Wang Huai Qing sells paintings to save his ailing wife. He is attacked by a bird demon along the way but is rescued by Fox demon Xiao Rong. To elude the pursuit, Wang brings Xiao Rong home, sparking a love triangle and at the same time, unfolding an impending love between human and demon.</desc>
   </programme>
-  <programme start="20260926092839 +0000" stop="20260926123528 +0000" channel="fifa">
-    <title>Sweden V Usa | Round Of 16 | Fifa Women'S World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
-    <desc>Watch the full match replay between Sweden and USA at Melbourne Rectangular Stadium, Melbourne.</desc>
+  <programme start="20260929040500 +0000" stop="20260929050000 +0000" channel="thrill">
+    <title>3Am - The Campsite</title>
+    <desc>A group of friends goes on a camping trip inside a supposedly haunted forest despite warning not to do so. As night falls and camps are set, the complicated relationships of lust and love between them are exposed, triggering a series of paranormal events that punishes them.  When dawn breaks, who will get out of the forest alive?</desc>
   </programme>
-  <programme start="20260926123528 +0000" stop="20260926124632 +0000" channel="fifa">
-    <title>The Best Of Fifa Women'S World Cup China Pr 1991™</title>
-    <desc>A showcase of the tournament’s top goals, assists, and award-winning moments from China PR 1991.</desc>
+  <programme start="20260929050000 +0000" stop="20260929063000 +0000" channel="thrill">
+    <title>Creepy Pasta</title>
+    <desc>Amnesiac Marco awakens imprisoned in an abandoned house surrounded by corpses. Trapped inside, he is forced by a mysterious mastermind to play ten disturbing videos on a flash drive. As deadly curses unfold, he is plagued by terrifying visions while his body, memory and life slowly unravel. With the countdown to death underway, can he survive?</desc>
   </programme>
-  <programme start="20260926124632 +0000" stop="20260926131334 +0000" channel="fifa">
-    <title>The Fans | Queen Of We</title>
-    <desc>Discover the fans whose lives have been changed by the WE league</desc>
+  <programme start="20260929063000 +0000" stop="20260929080500 +0000" channel="thrill">
+    <title>Paper Man</title>
+    <desc>As the police investigate a gang murder case, another mysterious paper man murder occurs, and the suspects are killed one by one. Continuing to track the clues of the case, the police finally unveil a hidden secret and tragedy spanning two generations.</desc>
   </programme>
-  <programme start="20260926131334 +0000" stop="20260926151528 +0000" channel="fifa">
-    <title>Nigeria V France | Group A | Fifa Women'S World Cup France 2019™ | Full Match Replay</title>
-    <desc>Watch the full match replay between Nigeria and France from Rennes, 17 June 2019.</desc>
+  <programme start="20260929080500 +0000" stop="20260929094000 +0000" channel="thrill">
+    <title>Mama Ghost</title>
+    <desc>In a coastal town, a forbidden romance sparks between Rico and Sisca, and their love unleashes a malevolent spirit. As chilling deaths plague the town, past secrets are being unraveled and the town is possessed by evil and fear. Rico must defy destiny and fight against the evil spirit to save his loved one.</desc>
   </programme>
-  <programme start="20260926151528 +0000" stop="20260926173735 +0000" channel="fifa">
-    <title>U20 Fifa World Cup, Women 2026 Usa U20 V Italy U20</title>
-    <desc>U20 FIFA World Cup, Women 2026 USA U20 v Italy U20</desc>
+  <programme start="20260929094000 +0000" stop="20260929101000 +0000" channel="thrill">
+    <title>Model Family</title>
+    <desc>A single-parent family (Yu Xiang and Tong Tong) moves into a new neighbourhood where everyone’s life seems perfect.  However, while things may look rosy on the outside, dark secrets and horror raid each family from the inside, and nothing really are as they seem.</desc>
   </programme>
-  <programme start="20260926173735 +0000" stop="20260926194748 +0000" channel="fifa">
-    <title>England V Denmark | Group D | Fifa Women'S World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
-    <desc>Watch the full match replay between England and Denmark at Sydney Football Stadium, Sydney.</desc>
+  <programme start="20260929101000 +0000" stop="20260929103500 +0000" channel="thrill">
+    <title>Model Family</title>
+    <desc>A single-parent family (Yu Xiang and Tong Tong) moves into a new neighbourhood where everyone’s life seems perfect.  However, while things may look rosy on the outside, dark secrets and horror raid each family from the inside, and nothing really are as they seem.</desc>
   </programme>
-  <programme start="20260926194748 +0000" stop="20260926215944 +0000" channel="fifa">
-    <title>Portugal V Usa | Group E | Fifa Women'S World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
-    <desc>Watch the full match replay between Portugal and USA at Eden Park, Auckland.</desc>
+  <programme start="20260929103500 +0000" stop="20260929120500 +0000" channel="thrill">
+    <title>Painted Face</title>
+    <desc>Scholar Wang Huai Qing sells paintings to save his ailing wife. He is attacked by a bird demon along the way but is rescued by Fox demon Xiao Rong. To elude the pursuit, Wang brings Xiao Rong home, sparking a love triangle and at the same time, unfolding an impending love between human and demon.</desc>
   </programme>
-  <programme start="20260926215944 +0000" stop="20260926221048 +0000" channel="fifa">
-    <title>The Best Of Fifa Women'S World Cup China Pr 1991™</title>
-    <desc>A showcase of the tournament’s top goals, assists, and award-winning moments from China PR 1991.</desc>
+  <programme start="20260929120500 +0000" stop="20260929130000 +0000" channel="thrill">
+    <title>3Am - The Campsite</title>
+    <desc>A group of friends goes on a camping trip inside a supposedly haunted forest despite warning not to do so. As night falls and camps are set, the complicated relationships of lust and love between them are exposed, triggering a series of paranormal events that punishes them.  When dawn breaks, who will get out of the forest alive?</desc>
   </programme>
-  <programme start="20260926221048 +0000" stop="20260926223749 +0000" channel="fifa">
-    <title>The Fans | Queen Of We</title>
-    <desc>Discover the fans whose lives have been changed by the WE league</desc>
+  <programme start="20260929130000 +0000" stop="20260929143500 +0000" channel="thrill">
+    <title>Waning Moon</title>
+    <desc>Nuanchan is a famous and highly respected spiritual medium in a rural village in Thailand. She wants to train her niece, Ploy, to succeed her and Ploy needs to remain a virgin. When Ploy falls in love with her childhood friend Tul, their lives are in danger as the secret of the spiritual world is being unveiled.</desc>
   </programme>
-  <programme start="20260926223749 +0000" stop="20260927003943 +0000" channel="fifa">
-    <title>Nigeria V France | Group A | Fifa Women'S World Cup France 2019™ | Full Match Replay</title>
-    <desc>Watch the full match replay between Nigeria and France from Rennes, 17 June 2019.</desc>
+  <programme start="20260929143500 +0000" stop="20260929161000 +0000" channel="thrill">
+    <title>The Revenge</title>
+    <desc>Ruo Wei returns to her childhood home with two best friends, and reunites with her cousin who has always lived there. While they plan to enjoy their trip, they are constantly haunted by paranormal events, ending up in a terrifying experience with unexpected outcome.</desc>
+  </programme>
+  <programme start="20260929161000 +0000" stop="20260929172500 +0000" channel="thrill">
+    <title>The Case Of Disappearances</title>
+    <desc>In Misty Village, the adopted son Wen Jie is haunted by a recurring nightmare. He delves into a series of disappearance cases in the village to seek his true identity. As more villagers die mysteriously, belief in the curse of Emperor Jing Lung intensifies. Wen Jie teams up with the security chief to unveil the conspiracy and protect the villagers.</desc>
+  </programme>
+  <programme start="20260929172500 +0000" stop="20260929175000 +0000" channel="thrill">
+    <title>Model Family</title>
+    <desc>A single-parent family (Yu Xiang and Tong Tong) moves into a new neighbourhood where everyone’s life seems perfect.  However, while things may look rosy on the outside, dark secrets and horror raid each family from the inside, and nothing really are as they seem.</desc>
+  </programme>
+  <programme start="20260929175000 +0000" stop="20260929181500 +0000" channel="thrill">
+    <title>Model Family</title>
+    <desc>A single-parent family (Yu Xiang and Tong Tong) moves into a new neighbourhood where everyone’s life seems perfect.  However, while things may look rosy on the outside, dark secrets and horror raid each family from the inside, and nothing really are as they seem.</desc>
+  </programme>
+  <programme start="20260929181500 +0000" stop="20260929193000 +0000" channel="thrill">
+    <title>Night At The Eagle Inn</title>
+    <desc>A pair of fraternal twins spend a terrifying night in a remote inn to investigate the last known whereabouts of their father who mysteriously disappeared the night they were born. As they dive deeper, the property's dark secrets ensnare them in a hellish labyrinth which they must escape before dawn.</desc>
+  </programme>
+  <programme start="20260929193000 +0000" stop="20260929210000 +0000" channel="thrill">
+    <title>A Woman Scorned</title>
+    <desc>Jas's peaceful countryside getaway with her sister Laura is shattered when a group of drifters attacks them. After Laura is brutally killed, Jas discovers her lifeless body at their rented cabin. Consumed by grief and fury, she vows to hunt down the gang and take vengeance on her sister's murderer.</desc>
+  </programme>
+  <programme start="20260929210000 +0000" stop="20260929223500 +0000" channel="thrill">
+    <title>Waning Moon</title>
+    <desc>Nuanchan is a famous and highly respected spiritual medium in a rural village in Thailand. She wants to train her niece, Ploy, to succeed her and Ploy needs to remain a virgin. When Ploy falls in love with her childhood friend Tul, their lives are in danger as the secret of the spiritual world is being unveiled.</desc>
+  </programme>
+  <programme start="20260929223500 +0000" stop="20260930001000 +0000" channel="thrill">
+    <title>The Revenge</title>
+    <desc>Ruo Wei returns to her childhood home with two best friends, and reunites with her cousin who has always lived there. While they plan to enjoy their trip, they are constantly haunted by paranormal events, ending up in a terrifying experience with unexpected outcome.</desc>
   </programme>
   <programme start="20260926223749 +0000" stop="20260927003943 +0000" channel="fifa">
     <title>Nigeria V France | Group A | Fifa Women'S World Cup France 2019™ | Full Match Replay</title>
@@ -1955,6 +1923,21 @@
     <title>Fifa+ Stream. Free. Live.</title>
   </programme>
   <programme start="20260928220000 +0000" stop="20260929040000 +0000" channel="fifa">
+    <title>Fifa+ Stream. Free. Live.</title>
+  </programme>
+  <programme start="20260928220000 +0000" stop="20260929040000 +0000" channel="fifa">
+    <title>Fifa+ Stream. Free. Live.</title>
+  </programme>
+  <programme start="20260929040000 +0000" stop="20260929100000 +0000" channel="fifa">
+    <title>Fifa+ Stream. Free. Live.</title>
+  </programme>
+  <programme start="20260929100000 +0000" stop="20260929160000 +0000" channel="fifa">
+    <title>Fifa+ Stream. Free. Live.</title>
+  </programme>
+  <programme start="20260929160000 +0000" stop="20260929220000 +0000" channel="fifa">
+    <title>Fifa+ Stream. Free. Live.</title>
+  </programme>
+  <programme start="20260929220000 +0000" stop="20260930040000 +0000" channel="fifa">
     <title>Fifa+ Stream. Free. Live.</title>
   </programme>
 </tv>
