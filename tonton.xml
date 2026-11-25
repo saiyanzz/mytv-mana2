@@ -93,16 +93,15 @@
   <programme start="20261125120000 +0000" stop="20261125130000 +0000" channel="tv3">
     <title>Buletin Utama (2026/2027)</title>
   </programme>
-  <programme start="20261125130000 +0000" stop="20261125140000 +0000" channel="tv3">
-    <title>Fail Mahkamah 2026/2027</title>
+  <programme start="20261125130000 +0000" stop="20261125143000 +0000" channel="tv3">
+    <title>Dialog Negara Khas Bersama Yab Perdana Menteri: “Di Sebalik Keputusan...”</title>
   </programme>
-  <programme start="20261125140000 +0000" stop="20261125150000 +0000" channel="tv3">
+  <programme start="20261125143000 +0000" stop="20261125153000 +0000" channel="tv3">
     <title>Sepenuh Hati Rindu</title>
     <desc>Luth melancarkan perang psikologi dan undang-undang secara terbuka bagi membuktikan ketidakstabilan Summayah demi hak penjagaan penuh Qhalifah. Dalam pada itu, Summayah terpaksa membuat satu keputusan yang amat menyakitkan.</desc>
   </programme>
-  <programme start="20261125150000 +0000" stop="20261125160000 +0000" channel="tv3">
-    <title>First Lady</title>
-    <desc>Min Cheol mendapati Su Yeon secara diam-diam memasang alat pengintip bagi memantau gerak-gerinya. Dalam satu temu bual TV, Su Yeon mengakui bahawa dia mengintip suaminya untuk melindunginya daripada musuh politiknya.</desc>
+  <programme start="20261125153000 +0000" stop="20261125160000 +0000" channel="tv3">
+    <title>Istimewa Majalah 3</title>
   </programme>
   <programme start="20261125160000 +0000" stop="20261125163000 +0000" channel="tv3">
     <title>Nightline (2026/2027)</title>
@@ -373,14 +372,16 @@
   <programme start="20261128000000 +0000" stop="20261128010000 +0000" channel="tv3">
     <title>Wow Shop</title>
   </programme>
-  <programme start="20261125000000 +0000" stop="20261125003000 +0000" channel="ntv7">
-    <title>Pecutan Spm 2024</title>
+  <programme start="20261125000000 +0000" stop="20261125033000 +0000" channel="ntv7">
+    <title>Anugerah Nyala Kpm 2026</title>
   </programme>
-  <programme start="20261125003000 +0000" stop="20261125050000 +0000" channel="ntv7">
-    <title>Program Khas 2026</title>
+  <programme start="20261125033000 +0000" stop="20261125040000 +0000" channel="ntv7">
+    <title>No Listing Available</title>
+    <desc>No listing available</desc>
+    <category>Unknown</category>
   </programme>
-  <programme start="20261125050000 +0000" stop="20261125053000 +0000" channel="ntv7">
-    <title>Buletin Didik 2026 (July - Dec)</title>
+  <programme start="20261125040000 +0000" stop="20261125053000 +0000" channel="ntv7">
+    <title>Majlis Peluncuran Prakasa Ai</title>
   </programme>
   <programme start="20261125053000 +0000" stop="20261125060000 +0000" channel="ntv7">
     <title>Generasi Madani 2026</title>
@@ -1756,17 +1757,53 @@
     <title>Jealousy</title>
     <desc>Model Min dies mysteriously in a hospital rumoured to be haunted. Soon after, her photographer receives eerie phone calls, a writer suffers a bizarre car accident, and Min’s friend suddenly vanishes. As fear spreads, dark secrets and supernatural forces emerge, drawing them into a terrifying nightmare linked to Min’s death.</desc>
   </programme>
-  <programme start="20261124220000 +0000" stop="20261125040000 +0000" channel="fifa">
-    <title>Fifa+ Stream. Free. Live.</title>
+  <programme start="20261124232959 +0000" stop="20261125000200 +0000" channel="fifa">
+    <title>A Look Back: Fifa Women'S World Cup China Pr 1991™</title>
+    <desc>USA Highlights in the FIFA Women's World Cup China PR 1991™</desc>
   </programme>
-  <programme start="20261125040000 +0000" stop="20261125100000 +0000" channel="fifa">
-    <title>Fifa+ Stream. Free. Live.</title>
+  <programme start="20261125000200 +0000" stop="20261125013740 +0000" channel="fifa">
+    <title>Brazil V Usa | Group B | Fifa Women'S World Cup China Pr 1991™ | Full Match Replay</title>
+    <desc>Watch the full match replay between Brazil and USA played on 19 November 1991 in Panyu.</desc>
   </programme>
-  <programme start="20261125100000 +0000" stop="20261125160000 +0000" channel="fifa">
-    <title>Fifa+ Stream. Free. Live.</title>
+  <programme start="20261125013740 +0000" stop="20261125032908 +0000" channel="fifa">
+    <title>Brazil V China Pr | Group D | Fifa Women'S World Cup China 2007™ | Full Match Replay</title>
+    <desc>Watch the full match replay between Brazil and China PR from Wuhan, 15 September 2007.</desc>
   </programme>
-  <programme start="20261125160000 +0000" stop="20261125170734 +0000" channel="fifa">
-    <title>Fifa+ Stream. Free. Live.</title>
+  <programme start="20261125032908 +0000" stop="20261125052243 +0000" channel="fifa">
+    <title>Germany V Sweden | Round Of 16 | Fifa Women'S World Cup Canada 2015™ | Full Match Replay</title>
+    <desc>Watch the full match replay between Germany and Sweden from Ottawa, 20 June 2015.</desc>
+  </programme>
+  <programme start="20261125052243 +0000" stop="20261125062524 +0000" channel="fifa">
+    <title>Moments | The Official Film Of The 2023 Fifa Women’S World Cup™</title>
+    <desc>A review of key moments in the biggest women’s sporting event in the World, both on and off the pitch.</desc>
+  </programme>
+  <programme start="20261125062524 +0000" stop="20261125080104 +0000" channel="fifa">
+    <title>Brazil V Usa | Group B | Fifa Women'S World Cup China Pr 1991™ | Full Match Replay</title>
+    <desc>Watch the full match replay between Brazil and USA played on 19 November 1991 in Panyu.</desc>
+  </programme>
+  <programme start="20261125080104 +0000" stop="20261125095233 +0000" channel="fifa">
+    <title>Brazil V China Pr | Group D | Fifa Women'S World Cup China 2007™ | Full Match Replay</title>
+    <desc>Watch the full match replay between Brazil and China PR from Wuhan, 15 September 2007.</desc>
+  </programme>
+  <programme start="20261125095233 +0000" stop="20261125112813 +0000" channel="fifa">
+    <title>Brazil V Usa | Group B | Fifa Women'S World Cup China Pr 1991™ | Full Match Replay</title>
+    <desc>Watch the full match replay between Brazil and USA played on 19 November 1991 in Panyu.</desc>
+  </programme>
+  <programme start="20261125112813 +0000" stop="20261125121751 +0000" channel="fifa">
+    <title>Brazil V China Pr | Group D | Fifa Women'S World Cup China 2007™ | Full Match Replay</title>
+    <desc>Watch the full match replay between Brazil and China PR from Wuhan, 15 September 2007.</desc>
+  </programme>
+  <programme start="20261125121751 +0000" stop="20261125141751 +0000" channel="fifa">
+    <title>Live | Fifa U-17 World Cup Qatar 2026™ | Ecuador V Korea Republic</title>
+    <desc>Live coverage of the FIFA U-17 World Cup from Qatar.</desc>
+  </programme>
+  <programme start="20261125141751 +0000" stop="20261125150734 +0000" channel="fifa">
+    <title>Moments | The Official Film Of The 2023 Fifa Women’S World Cup™</title>
+    <desc>A review of key moments in the biggest women’s sporting event in the World, both on and off the pitch.</desc>
+  </programme>
+  <programme start="20261125150734 +0000" stop="20261125170734 +0000" channel="fifa">
+    <title>Live | Fifa U-17 World Cup Qatar 2026™ | Denmark V Argentina</title>
+    <desc>Live coverage of the FIFA U-17 World Cup from Qatar.</desc>
   </programme>
   <programme start="20261125170734 +0000" stop="20261125191121 +0000" channel="fifa">
     <title>England V Denmark | Group D | Fifa Women'S World Cup Australia &amp; New Zealand 2023™ | Full Match Replay</title>
@@ -1824,29 +1861,112 @@
     <title>Spain V Netherlands | Group B | 2014 Fifa World Cup Brazil™ | Full Match Replay</title>
     <desc>Watch the full match replay from the match between Spain and Netherlands</desc>
   </programme>
-  <programme start="20261126140241 +0000" stop="20261126160000 +0000" channel="fifa">
+  <programme start="20261126140241 +0000" stop="20261126163241 +0000" channel="fifa">
     <title>Live | Fifa U-17 World Cup Qatar 2026™ | New Zealand V Belgium</title>
     <desc>Live coverage of the FIFA U-17 World Cup from Qatar.</desc>
   </programme>
-  <programme start="20261126160000 +0000" stop="20261126220000 +0000" channel="fifa">
-    <title>Fifa+ Stream. Free. Live.</title>
+  <programme start="20261126163241 +0000" stop="20261126165826 +0000" channel="fifa">
+    <title>World Champions: France 2018</title>
+    <desc>The glorious victory of France at the 2018 FIFA World Cup™ in Russia.</desc>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261127040000 +0000" channel="fifa">
-    <title>Fifa+ Stream. Free. Live.</title>
+  <programme start="20261126165826 +0000" stop="20261126192826 +0000" channel="fifa">
+    <title>Croatia V Cuba</title>
+    <desc>Watch the full match replay from the match between Real Madrid and Kashima Antlers played at Yokohama Stadium.</desc>
   </programme>
-  <programme start="20261126220000 +0000" stop="20261127040000 +0000" channel="fifa">
-    <title>Fifa+ Stream. Free. Live.</title>
+  <programme start="20261126192826 +0000" stop="20261126203336 +0000" channel="fifa">
+    <title>All Goals | Fifa Women'S World Cup Australia &amp; New Zealand 2023™</title>
+    <desc>Watch all goals scored so far at the FIFA Women's World Cup Australia &amp; New Zealand 2023™.</desc>
   </programme>
-  <programme start="20261127040000 +0000" stop="20261127100000 +0000" channel="fifa">
-    <title>Fifa+ Stream. Free. Live.</title>
+  <programme start="20261126203336 +0000" stop="20261126222731 +0000" channel="fifa">
+    <title>Spain V Netherlands | Group B | 2014 Fifa World Cup Brazil™ | Full Match Replay</title>
+    <desc>Watch the full match replay from the match between Spain and Netherlands</desc>
   </programme>
-  <programme start="20261127100000 +0000" stop="20261127160000 +0000" channel="fifa">
-    <title>Fifa+ Stream. Free. Live.</title>
+  <programme start="20261126222731 +0000" stop="20261126231353 +0000" channel="fifa">
+    <title>World Champions: France 2018</title>
+    <desc>The glorious victory of France at the 2018 FIFA World Cup™ in Russia.</desc>
   </programme>
-  <programme start="20261127160000 +0000" stop="20261127220000 +0000" channel="fifa">
-    <title>Fifa+ Stream. Free. Live.</title>
+  <programme start="20261126231353 +0000" stop="20261127010948 +0000" channel="fifa">
+    <title>Spain V Netherlands | Group B | 2014 Fifa World Cup Brazil™ | Full Match Replay</title>
+    <desc>Watch the full match replay from the match between Spain and Netherlands</desc>
   </programme>
-  <programme start="20261127220000 +0000" stop="20261128040000 +0000" channel="fifa">
-    <title>Fifa+ Stream. Free. Live.</title>
+  <programme start="20261126231353 +0000" stop="20261127010948 +0000" channel="fifa">
+    <title>Spain V Netherlands | Group B | 2014 Fifa World Cup Brazil™ | Full Match Replay</title>
+    <desc>Watch the full match replay from the match between Spain and Netherlands</desc>
+  </programme>
+  <programme start="20261127010948 +0000" stop="20261127034324 +0000" channel="fifa">
+    <title>Germany V Argentina | Final | 2014 Fifa World Cup Brazil™ | Full Match Replay</title>
+    <desc>Watch the full replay from the match between Germany and Argentina</desc>
+  </programme>
+  <programme start="20261127034324 +0000" stop="20261127040124 +0000" channel="fifa">
+    <title>2014 Fifa World Cup Brazil™ | The Final</title>
+    <desc>Through the eyes of those present, revisit the 2014 Germany vs Argentina final at Maracanã.</desc>
+  </programme>
+  <programme start="20261127040124 +0000" stop="20261127050522 +0000" channel="fifa">
+    <title>Road To Maracana | The Official Film Of The 2014 Fifa World Cup™</title>
+    <desc>Relive a FIFA World Cup™ featuring the hypnotising trickery of Neymar</desc>
+  </programme>
+  <programme start="20261127050522 +0000" stop="20261127065939 +0000" channel="fifa">
+    <title>Uruguay V Mexico | Final | Fifa U-17 World Cup Mexico 2011™ | Full Match Replay</title>
+    <desc>Watch the Full Match Replay between Uruguay and Mexico.</desc>
+  </programme>
+  <programme start="20261127065939 +0000" stop="20261127085212 +0000" channel="fifa">
+    <title>Japan V England | Semi-Finals | Fifa Women'S World Cup Canada 2015™ | Full Match Replay</title>
+    <desc>Watch the full match replay between Japan and England from Edmonton, 1 July 2015.</desc>
+  </programme>
+  <programme start="20261127085212 +0000" stop="20261127104439 +0000" channel="fifa">
+    <title>Chile V Germany | Final | Fifa Confederations Cup Russia 2017™ | Full Match Replay</title>
+    <desc>Watch the full match replay between Chile and Germany played at Krestovsky Stadium on 2 July 2017.</desc>
+  </programme>
+  <programme start="20261127104439 +0000" stop="20261127110239 +0000" channel="fifa">
+    <title>2014 Fifa World Cup Brazil™ | The Final</title>
+    <desc>Through the eyes of those present, revisit the 2014 Germany vs Argentina final at Maracanã.</desc>
+  </programme>
+  <programme start="20261127110239 +0000" stop="20261127120517 +0000" channel="fifa">
+    <title>Road To Maracana | The Official Film Of The 2014 Fifa World Cup™</title>
+    <desc>Relive a FIFA World Cup™ featuring the hypnotising trickery of Neymar</desc>
+  </programme>
+  <programme start="20261127120517 +0000" stop="20261127143517 +0000" channel="fifa">
+    <title>Live | Fifa U-17 World Cup Qatar 2026™ | Colombia V Serbia</title>
+    <desc>Live coverage of the FIFA U-17 World Cup from Qatar.</desc>
+  </programme>
+  <programme start="20261127143517 +0000" stop="20261127145317 +0000" channel="fifa">
+    <title>2014 Fifa World Cup Brazil™ | The Final</title>
+    <desc>Through the eyes of those present, revisit the 2014 Germany vs Argentina final at Maracanã.</desc>
+  </programme>
+  <programme start="20261127145317 +0000" stop="20261127172317 +0000" channel="fifa">
+    <title>Live | Fifa U-17 World Cup Qatar 2026™ | Romania V Cameroon</title>
+    <desc>Live coverage of the FIFA U-17 World Cup from Qatar.</desc>
+  </programme>
+  <programme start="20261127172317 +0000" stop="20261127182223 +0000" channel="fifa">
+    <title>Road To Maracana | The Official Film Of The 2014 Fifa World Cup™</title>
+    <desc>Relive a FIFA World Cup™ featuring the hypnotising trickery of Neymar</desc>
+  </programme>
+  <programme start="20261127182223 +0000" stop="20261127184023 +0000" channel="fifa">
+    <title>2014 Fifa World Cup Brazil™ | The Final</title>
+    <desc>Through the eyes of those present, revisit the 2014 Germany vs Argentina final at Maracanã.</desc>
+  </programme>
+  <programme start="20261127184023 +0000" stop="20261127203256 +0000" channel="fifa">
+    <title>Japan V England | Semi-Finals | Fifa Women'S World Cup Canada 2015™ | Full Match Replay</title>
+    <desc>Watch the full match replay between Japan and England from Edmonton, 1 July 2015.</desc>
+  </programme>
+  <programme start="20261127203256 +0000" stop="20261127222523 +0000" channel="fifa">
+    <title>Chile V Germany | Final | Fifa Confederations Cup Russia 2017™ | Full Match Replay</title>
+    <desc>Watch the full match replay between Chile and Germany played at Krestovsky Stadium on 2 July 2017.</desc>
+  </programme>
+  <programme start="20261127222523 +0000" stop="20261127233321 +0000" channel="fifa">
+    <title>Road To Maracana | The Official Film Of The 2014 Fifa World Cup™</title>
+    <desc>Relive a FIFA World Cup™ featuring the hypnotising trickery of Neymar</desc>
+  </programme>
+  <programme start="20261127233321 +0000" stop="20261127235121 +0000" channel="fifa">
+    <title>2014 Fifa World Cup Brazil™ | The Final</title>
+    <desc>Through the eyes of those present, revisit the 2014 Germany vs Argentina final at Maracanã.</desc>
+  </programme>
+  <programme start="20261127235121 +0000" stop="20261128000000 +0000" channel="fifa">
+    <title>Germany V Argentina | Final | 2014 Fifa World Cup Brazil™ | Full Match Replay</title>
+    <desc>Watch the full replay from the match between Germany and Argentina</desc>
+  </programme>
+  <programme start="20261128000000 +0000" stop="20261128004132 +0000" channel="fifa">
+    <title>Facts: Brazil V France | France 98</title>
+    <desc>France overcoming Brazil at home explained.</desc>
   </programme>
 </tv>
